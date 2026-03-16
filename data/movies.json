@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-16 02:50:14 IST",
+    "last_updated": "2026-03-16 06:56:55 IST",
     "movies": {
         "Love after Love(bcSunday)": {
             "shows": {
@@ -942,10 +942,10 @@
                     "date": "2026-03-16",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 1",
-                    "sold": 15,
+                    "sold": 17,
                     "seats": 413,
                     "price": 60,
-                    "gross": 900
+                    "gross": 1020
                 },
                 "Night King_2026-03-16_KWAI FONG_House 5": {
                     "id": "Night King_2026-03-16_KWAI FONG_House 5",
@@ -1745,10 +1745,10 @@
                     "date": "2026-03-17",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 5",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 118,
                     "price": 85,
-                    "gross": 0
+                    "gross": 85
                 },
                 "Night King_2026-03-17_KWAI FONG_House 2": {
                     "id": "Night King_2026-03-17_KWAI FONG_House 2",
@@ -5631,15 +5631,15 @@
                 },
                 "2026-03-16": {
                     "shows": 52,
-                    "sold": 112,
+                    "sold": 114,
                     "seats": 7682,
-                    "gross": 8360
+                    "gross": 8480
                 },
                 "2026-03-17": {
                     "shows": 50,
-                    "sold": 48,
+                    "sold": 49,
                     "seats": 7610,
-                    "gross": 3500
+                    "gross": 3585
                 },
                 "2026-03-18": {
                     "shows": 50,
@@ -5680,9 +5680,9 @@
             },
             "total": {
                 "shows": 503,
-                "sold": 1281,
+                "sold": 1284,
                 "seats": 77509,
-                "gross": 116920
+                "gross": 117125
             },
             "image": "https://media.grabticks.com/programTj_657c812a-9048-45af-a198-1cce8783e50a_.jpg"
         },
@@ -6772,10 +6772,10 @@
                     "date": "2026-03-18",
                     "site": "KINGSWOOD",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 215,
                     "price": 80,
-                    "gross": 0
+                    "gross": 160
                 },
                 "Hoppers(Cantonese Version)_2026-03-18_GALA CINEMA (Langham Place)_House 3": {
                     "id": "Hoppers(Cantonese Version)_2026-03-18_GALA CINEMA (Langham Place)_House 3",
@@ -7557,9 +7557,9 @@
                 },
                 "2026-03-18": {
                     "shows": 22,
-                    "sold": 8,
+                    "sold": 10,
                     "seats": 4379,
-                    "gross": 730
+                    "gross": 890
                 },
                 "2026-03-12": {
                     "shows": 21,
@@ -7576,9 +7576,9 @@
             },
             "total": {
                 "shows": 167,
-                "sold": 1036,
+                "sold": 1038,
                 "seats": 31073,
-                "gross": 96665
+                "gross": 96825
             },
             "image": "https://media.grabticks.com/programpl_0f736da1-2d72-435a-af16-49e1869fba27_.jpg"
         },
@@ -8151,10 +8151,10 @@
                     "date": "2026-03-16",
                     "site": "MONGKOK",
                     "house": "House 1",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 260,
                     "price": 105,
-                    "gross": 0
+                    "gross": 210
                 },
                 "Hoppers(English Version)_2026-03-16_PALACE ifc_House 1": {
                     "id": "Hoppers(English Version)_2026-03-16_PALACE ifc_House 1",
@@ -9539,9 +9539,9 @@
                 },
                 "2026-03-16": {
                     "shows": 24,
-                    "sold": 33,
+                    "sold": 35,
                     "seats": 3294,
-                    "gross": 3400
+                    "gross": 3610
                 },
                 "2026-03-17": {
                     "shows": 24,
@@ -9570,9 +9570,9 @@
             },
             "total": {
                 "shows": 176,
-                "sold": 697,
+                "sold": 699,
                 "seats": 24063,
-                "gross": 68795
+                "gross": 69005
             },
             "image": "https://media.grabticks.com/programTf_524ee88c-ab1d-48df-a0cd-3c1ad487be00_.jpg"
         },
@@ -13424,10 +13424,10 @@
                     "date": "2026-03-16",
                     "site": "CINEMATHEQUE",
                     "house": "House 2",
-                    "sold": 20,
+                    "sold": 21,
                     "seats": 119,
                     "price": 95,
-                    "gross": 1900
+                    "gross": 1995
                 },
                 "HAMNET_2026-03-16_MY CINEMA YOHO MALL_House 4": {
                     "id": "HAMNET_2026-03-16_MY CINEMA YOHO MALL_House 4",
@@ -14354,9 +14354,9 @@
                 },
                 "2026-03-16": {
                     "shows": 17,
-                    "sold": 57,
+                    "sold": 58,
                     "seats": 1936,
-                    "gross": 4960
+                    "gross": 5055
                 },
                 "2026-03-17": {
                     "shows": 16,
@@ -14385,9 +14385,9 @@
             },
             "total": {
                 "shows": 111,
-                "sold": 584,
+                "sold": 585,
                 "seats": 12731,
-                "gross": 57140
+                "gross": 57235
             },
             "image": "https://media.grabticks.com/programyk_346d6e28-4d7f-44b9-bbe4-fc6952eee2cd_.jpg"
         },
@@ -28772,10 +28772,10 @@
                     "date": "2026-03-17",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 30,
+                    "sold": 31,
                     "seats": 119,
                     "price": 75,
-                    "gross": 2250
+                    "gross": 2325
                 },
                 "The Worst Person In The World_2026-03-20_CINEMATHEQUE_House 1": {
                     "id": "The Worst Person In The World_2026-03-20_CINEMATHEQUE_House 1",
@@ -28825,9 +28825,9 @@
             "dates": {
                 "2026-03-17": {
                     "shows": 1,
-                    "sold": 30,
+                    "sold": 31,
                     "seats": 119,
-                    "gross": 2250
+                    "gross": 2325
                 },
                 "2026-03-20": {
                     "shows": 1,
@@ -28856,9 +28856,9 @@
             },
             "total": {
                 "shows": 5,
-                "sold": 186,
+                "sold": 187,
                 "seats": 595,
-                "gross": 16490
+                "gross": 16565
             },
             "image": "https://media.grabticks.com/programNj_0acfb3d8-a52d-4e44-a640-7d50fdf0789a_.jpg"
         },
