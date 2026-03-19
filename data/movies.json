@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-19 12:17:18 IST",
+    "last_updated": "2026-03-19 15:04:57 IST",
     "movies": {
         "Love after Love(bcSunday)": {
             "shows": {
@@ -20990,10 +20990,10 @@
                     "date": "2026-03-19",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 4",
-                    "sold": 1,
+                    "sold": 0,
                     "seats": 197,
                     "price": 110,
-                    "gross": 110
+                    "gross": 0
                 },
                 "Girlfriends_2026-03-19_CINEMATHEQUE_House 3": {
                     "id": "Girlfriends_2026-03-19_CINEMATHEQUE_House 3",
@@ -21130,9 +21130,9 @@
                 },
                 "2026-03-19": {
                     "shows": 5,
-                    "sold": 6,
+                    "sold": 5,
                     "seats": 679,
-                    "gross": 410
+                    "gross": 300
                 },
                 "2026-03-20": {
                     "shows": 5,
@@ -21143,9 +21143,9 @@
             },
             "total": {
                 "shows": 99,
-                "sold": 318,
+                "sold": 317,
                 "seats": 12863,
-                "gross": 28955
+                "gross": 28845
             },
             "image": "https://media.grabticks.com/programmm_a349edb2-20cc-4961-966e-92bd190e5ab2_.jpg"
         },
@@ -36949,10 +36949,10 @@
                     "date": "2026-03-19",
                     "site": "KINGSWOOD",
                     "house": "House 3",
-                    "sold": 15,
+                    "sold": 14,
                     "seats": 180,
                     "price": 60,
-                    "gross": 900
+                    "gross": 840
                 },
                 "CIAO UFO_2026-03-19_B+ cinema apm (Kwun Tong)_House 4": {
                     "id": "CIAO UFO_2026-03-19_B+ cinema apm (Kwun Tong)_House 4",
@@ -37552,9 +37552,9 @@
             "dates": {
                 "2026-03-19": {
                     "shows": 32,
-                    "sold": 91,
+                    "sold": 90,
                     "seats": 4401,
-                    "gross": 7295
+                    "gross": 7235
                 },
                 "2026-03-20": {
                     "shows": 34,
@@ -37565,9 +37565,9 @@
             },
             "total": {
                 "shows": 66,
-                "sold": 137,
+                "sold": 136,
                 "seats": 8760,
-                "gross": 11800
+                "gross": 11740
             }
         },
         "IMAX Project Hail Mary": {
@@ -37690,10 +37690,10 @@
                     "date": "2026-03-19",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "House 3",
-                    "sold": 5,
+                    "sold": 4,
                     "seats": 115,
                     "price": 105,
-                    "gross": 525
+                    "gross": 420
                 },
                 "Project Hail Mary_2026-03-19_KINGSWOOD_House 4": {
                     "id": "Project Hail Mary_2026-03-19_KINGSWOOD_House 4",
@@ -38073,9 +38073,9 @@
             "dates": {
                 "2026-03-19": {
                     "shows": 20,
-                    "sold": 64,
+                    "sold": 63,
                     "seats": 3756,
-                    "gross": 8410
+                    "gross": 8305
                 },
                 "2026-03-20": {
                     "shows": 17,
@@ -38092,9 +38092,9 @@
             },
             "total": {
                 "shows": 39,
-                "sold": 118,
+                "sold": 117,
                 "seats": 7209,
-                "gross": 15640
+                "gross": 15535
             }
         },
         "CINITY LED Project Hail Mary": {
@@ -38687,25 +38687,25 @@
                     "date": "2026-04-29",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 6,
+                    "sold": 5,
                     "seats": 119,
                     "price": 95,
-                    "gross": 570
+                    "gross": 475
                 }
             },
             "dates": {
                 "2026-04-29": {
                     "shows": 1,
-                    "sold": 6,
+                    "sold": 5,
                     "seats": 119,
-                    "gross": 570
+                    "gross": 475
                 }
             },
             "total": {
                 "shows": 1,
-                "sold": 6,
+                "sold": 5,
                 "seats": 119,
-                "gross": 570
+                "gross": 475
             }
         },
         "We Are Young. We Are Strong.(GFF 2026)": {
@@ -38949,10 +38949,10 @@
                     "date": "2026-04-04",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "MOViEMAXX",
-                    "sold": 168,
+                    "sold": 167,
                     "seats": 273,
                     "price": 330,
-                    "gross": 55440
+                    "gross": 55110
                 },
                 "SUPER JUNIOR 20th Anniversary TOUR \\u003cSUPER SHOW 10\\u003e SJ-CORE in CINEMAS_2026-04-04_MOViE MOViE Pacific Place (Admiralty)_MM Plus": {
                     "id": "SUPER JUNIOR 20th Anniversary TOUR \\u003cSUPER SHOW 10\\u003e SJ-CORE in CINEMAS_2026-04-04_MOViE MOViE Pacific Place (Admiralty)_MM Plus",
@@ -38969,16 +38969,16 @@
             "dates": {
                 "2026-04-04": {
                     "shows": 7,
-                    "sold": 891,
+                    "sold": 890,
                     "seats": 1571,
-                    "gross": 294030
+                    "gross": 293700
                 }
             },
             "total": {
                 "shows": 7,
-                "sold": 891,
+                "sold": 890,
                 "seats": 1571,
-                "gross": 294030
+                "gross": 293700
             }
         },
         "Marty Supreme Special Screening": {
@@ -39000,10 +39000,10 @@
                     "date": "2026-03-29",
                     "site": "PREMIERE ELEMENTS",
                     "house": "THX",
-                    "sold": 21,
+                    "sold": 20,
                     "seats": 261,
                     "price": 480,
-                    "gross": 10080
+                    "gross": 9600
                 }
             },
             "dates": {
@@ -39015,16 +39015,16 @@
                 },
                 "2026-03-29": {
                     "shows": 1,
-                    "sold": 21,
+                    "sold": 20,
                     "seats": 261,
-                    "gross": 10080
+                    "gross": 9600
                 }
             },
             "total": {
                 "shows": 2,
-                "sold": 37,
+                "sold": 36,
                 "seats": 380,
-                "gross": 17760
+                "gross": 17280
             }
         }
     }
