@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-23 10:27:50 IST",
+    "last_updated": "2026-03-23 12:29:30 IST",
     "movies": {
         "Love after Love(bcSunday)": {
             "shows": {
@@ -7194,10 +7194,10 @@
                     "date": "2026-03-23",
                     "site": "MONGKOK",
                     "house": "House 3",
-                    "sold": 4,
+                    "sold": 6,
                     "seats": 260,
                     "price": 105,
-                    "gross": 420
+                    "gross": 630
                 },
                 "Night King_2026-03-23_MOViE MOViE Cityplaza (Taikoo Shing)_House 1": {
                     "id": "Night King_2026-03-23_MOViE MOViE Cityplaza (Taikoo Shing)_House 1",
@@ -7282,10 +7282,10 @@
                     "date": "2026-03-23",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "MM Plus",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 146,
                     "price": 130,
-                    "gross": 0
+                    "gross": 130
                 },
                 "Night King_2026-03-23_MONGKOK_House 4": {
                     "id": "Night King_2026-03-23_MONGKOK_House 4",
@@ -7326,10 +7326,10 @@
                     "date": "2026-03-23",
                     "site": "KINGSWOOD",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 4,
                     "seats": 215,
                     "price": 80,
-                    "gross": 0
+                    "gross": 320
                 },
                 "Night King_2026-03-23_PALACE ifc_House 5": {
                     "id": "Night King_2026-03-23_PALACE ifc_House 5",
@@ -7436,10 +7436,10 @@
                     "date": "2026-03-23",
                     "site": "TSUEN WAN",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 96,
                     "price": 95,
-                    "gross": 0
+                    "gross": 190
                 },
                 "Night King_2026-03-23_PALACE ifc_House 1": {
                     "id": "Night King_2026-03-23_PALACE ifc_House 1",
@@ -7535,10 +7535,10 @@
                     "date": "2026-03-24",
                     "site": "KWAI FONG",
                     "house": "House 5",
-                    "sold": 6,
+                    "sold": 10,
                     "seats": 138,
                     "price": 80,
-                    "gross": 480
+                    "gross": 800
                 },
                 "Night King_2026-03-24_TSUEN WAN_House 2": {
                     "id": "Night King_2026-03-24_TSUEN WAN_House 2",
@@ -7568,10 +7568,10 @@
                     "date": "2026-03-24",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 5",
-                    "sold": 7,
+                    "sold": 9,
                     "seats": 118,
                     "price": 60,
-                    "gross": 420
+                    "gross": 540
                 },
                 "Night King_2026-03-24_PALACE ifc_House 3": {
                     "id": "Night King_2026-03-24_PALACE ifc_House 3",
@@ -7634,10 +7634,10 @@
                     "date": "2026-03-24",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 3",
-                    "sold": 8,
+                    "sold": 9,
                     "seats": 191,
                     "price": 60,
-                    "gross": 480
+                    "gross": 540
                 },
                 "Night King_2026-03-24_MY CINEMA YOHO MALL_House 4": {
                     "id": "Night King_2026-03-24_MY CINEMA YOHO MALL_House 4",
@@ -7788,10 +7788,10 @@
                     "date": "2026-03-24",
                     "site": "TSUEN WAN",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 96,
                     "price": 85,
-                    "gross": 0
+                    "gross": 85
                 },
                 "Night King_2026-03-24_PALACE ifc_House 1": {
                     "id": "Night King_2026-03-24_PALACE ifc_House 1",
@@ -7854,10 +7854,10 @@
                     "date": "2026-03-25",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 1",
-                    "sold": 2,
+                    "sold": 3,
                     "seats": 156,
                     "price": 60,
-                    "gross": 120
+                    "gross": 180
                 },
                 "Night King_2026-03-25_MONGKOK_House 3": {
                     "id": "Night King_2026-03-25_MONGKOK_House 3",
@@ -7865,10 +7865,10 @@
                     "date": "2026-03-25",
                     "site": "MONGKOK",
                     "house": "House 3",
-                    "sold": 2,
+                    "sold": 4,
                     "seats": 260,
                     "price": 105,
-                    "gross": 210
+                    "gross": 420
                 },
                 "Night King_2026-03-25_KWAI FONG_House 5": {
                     "id": "Night King_2026-03-25_KWAI FONG_House 5",
@@ -8343,28 +8343,28 @@
                 },
                 "2026-03-23": {
                     "shows": 33,
-                    "sold": 92,
+                    "sold": 101,
                     "seats": 4682,
-                    "gross": 6630
+                    "gross": 7480
                 },
                 "2026-03-24": {
                     "shows": 33,
-                    "sold": 51,
+                    "sold": 59,
                     "seats": 4682,
-                    "gross": 3770
+                    "gross": 4355
                 },
                 "2026-03-25": {
                     "shows": 33,
-                    "sold": 7,
+                    "sold": 10,
                     "seats": 4682,
-                    "gross": 690
+                    "gross": 960
                 }
             },
             "total": {
                 "shows": 743,
-                "sold": 3055,
+                "sold": 3075,
                 "seats": 111302,
-                "gross": 282785
+                "gross": 284490
             },
             "image": "https://media.grabticks.com/programTj_657c812a-9048-45af-a198-1cce8783e50a_.jpg"
         },
@@ -11273,10 +11273,10 @@
                     "date": "2026-03-23",
                     "site": "KINGSWOOD",
                     "house": "House 1",
-                    "sold": 0,
+                    "sold": 13,
                     "seats": 113,
                     "price": 80,
-                    "gross": 0
+                    "gross": 1040
                 },
                 "Hoppers(Cantonese Version)_2026-03-23_GALA CINEMA (Langham Place)_House 3": {
                     "id": "Hoppers(Cantonese Version)_2026-03-23_GALA CINEMA (Langham Place)_House 3",
@@ -11405,10 +11405,10 @@
                     "date": "2026-03-24",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 6",
-                    "sold": 6,
+                    "sold": 8,
                     "seats": 108,
                     "price": 60,
-                    "gross": 360
+                    "gross": 480
                 },
                 "Hoppers(Cantonese Version)_2026-03-24_B+ cinema apm (Kwun Tong)_House 4": {
                     "id": "Hoppers(Cantonese Version)_2026-03-24_B+ cinema apm (Kwun Tong)_House 4",
@@ -11438,10 +11438,10 @@
                     "date": "2026-03-24",
                     "site": "KINGSWOOD",
                     "house": "House 2",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 116,
                     "price": 60,
-                    "gross": 0
+                    "gross": 120
                 },
                 "Hoppers(Cantonese Version)_2026-03-24_MONGKOK_House 5": {
                     "id": "Hoppers(Cantonese Version)_2026-03-24_MONGKOK_House 5",
@@ -11526,10 +11526,10 @@
                     "date": "2026-03-24",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 3",
-                    "sold": 3,
+                    "sold": 6,
                     "seats": 129,
                     "price": 85,
-                    "gross": 255
+                    "gross": 510
                 },
                 "Hoppers(Cantonese Version)_2026-03-24_KWAI FONG_House 5": {
                     "id": "Hoppers(Cantonese Version)_2026-03-24_KWAI FONG_House 5",
@@ -11548,10 +11548,10 @@
                     "date": "2026-03-24",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 1",
-                    "sold": 2,
+                    "sold": 6,
                     "seats": 156,
                     "price": 85,
-                    "gross": 170
+                    "gross": 510
                 },
                 "Hoppers(Cantonese Version)_2026-03-24_TSUEN WAN_House 2": {
                     "id": "Hoppers(Cantonese Version)_2026-03-24_TSUEN WAN_House 2",
@@ -11636,10 +11636,10 @@
                     "date": "2026-03-25",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 6",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 108,
                     "price": 60,
-                    "gross": 0
+                    "gross": 60
                 },
                 "Hoppers(Cantonese Version)_2026-03-25_B+ cinema apm (Kwun Tong)_House 4": {
                     "id": "Hoppers(Cantonese Version)_2026-03-25_B+ cinema apm (Kwun Tong)_House 4",
@@ -11867,10 +11867,10 @@
                     "date": "2026-03-23",
                     "site": "B+ cinema MOKO (Mong Kok East)",
                     "house": "House 4",
-                    "sold": 5,
+                    "sold": 6,
                     "seats": 158,
                     "price": 105,
-                    "gross": 525
+                    "gross": 630
                 },
                 "Hoppers(Cantonese Version)_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 4": {
                     "id": "Hoppers(Cantonese Version)_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 4",
@@ -11964,28 +11964,28 @@
                 },
                 "2026-03-23": {
                     "shows": 22,
-                    "sold": 48,
+                    "sold": 62,
                     "seats": 3526,
-                    "gross": 4100
+                    "gross": 5245
                 },
                 "2026-03-24": {
                     "shows": 22,
-                    "sold": 30,
+                    "sold": 41,
                     "seats": 3526,
-                    "gross": 2505
+                    "gross": 3340
                 },
                 "2026-03-25": {
                     "shows": 22,
-                    "sold": 13,
+                    "sold": 14,
                     "seats": 3487,
-                    "gross": 1230
+                    "gross": 1290
                 }
             },
             "total": {
                 "shows": 320,
-                "sold": 2686,
+                "sold": 2712,
                 "seats": 56158,
-                "gross": 253550
+                "gross": 255590
             },
             "image": "https://media.grabticks.com/programpl_0f736da1-2d72-435a-af16-49e1869fba27_.jpg"
         },
@@ -14651,10 +14651,10 @@
                     "date": "2026-03-23",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 2",
-                    "sold": 14,
+                    "sold": 16,
                     "seats": 98,
                     "price": 100,
-                    "gross": 1400
+                    "gross": 1600
                 },
                 "Hoppers(English Version)_2026-03-23_MONGKOK_House 5": {
                     "id": "Hoppers(English Version)_2026-03-23_MONGKOK_House 5",
@@ -14728,10 +14728,10 @@
                     "date": "2026-03-23",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 3",
-                    "sold": 8,
+                    "sold": 16,
                     "seats": 191,
                     "price": 110,
-                    "gross": 880
+                    "gross": 1760
                 },
                 "Hoppers(English Version)_2026-03-23_MOViE MOViE Cityplaza (Taikoo Shing)_House 3": {
                     "id": "Hoppers(English Version)_2026-03-23_MOViE MOViE Cityplaza (Taikoo Shing)_House 3",
@@ -14739,10 +14739,10 @@
                     "date": "2026-03-23",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 3",
-                    "sold": 7,
+                    "sold": 9,
                     "seats": 129,
                     "price": 100,
-                    "gross": 700
+                    "gross": 900
                 },
                 "Hoppers(English Version)_2026-03-23_B+ cinema apm (Kwun Tong)_House 1": {
                     "id": "Hoppers(English Version)_2026-03-23_B+ cinema apm (Kwun Tong)_House 1",
@@ -14783,10 +14783,10 @@
                     "date": "2026-03-23",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "MM Plus",
-                    "sold": 0,
+                    "sold": 4,
                     "seats": 146,
                     "price": 130,
-                    "gross": 0
+                    "gross": 520
                 },
                 "Hoppers(English Version)_2026-03-23_PALACE ifc_House 2": {
                     "id": "Hoppers(English Version)_2026-03-23_PALACE ifc_House 2",
@@ -14882,10 +14882,10 @@
                     "date": "2026-03-24",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 3",
-                    "sold": 13,
+                    "sold": 15,
                     "seats": 129,
                     "price": 85,
-                    "gross": 1105
+                    "gross": 1275
                 },
                 "Hoppers(English Version)_2026-03-24_B+ cinema apm (Kwun Tong)_House 1": {
                     "id": "Hoppers(English Version)_2026-03-24_B+ cinema apm (Kwun Tong)_House 1",
@@ -14893,10 +14893,10 @@
                     "date": "2026-03-24",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 1",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 116,
                     "price": 85,
-                    "gross": 0
+                    "gross": 170
                 },
                 "Hoppers(English Version)_2026-03-24_MONGKOK_House 1": {
                     "id": "Hoppers(English Version)_2026-03-24_MONGKOK_House 1",
@@ -15124,10 +15124,10 @@
                     "date": "2026-03-23",
                     "site": "B+ cinema MOKO (Mong Kok East)",
                     "house": "House 4",
-                    "sold": 2,
+                    "sold": 8,
                     "seats": 158,
                     "price": 105,
-                    "gross": 210
+                    "gross": 840
                 },
                 "Hoppers(English Version)_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 2": {
                     "id": "Hoppers(English Version)_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 2",
@@ -15135,10 +15135,10 @@
                     "date": "2026-03-24",
                     "site": "B+ cinema MOKO (Mong Kok East)",
                     "house": "House 2",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 140,
                     "price": 60,
-                    "gross": 0
+                    "gross": 60
                 },
                 "Hoppers(English Version)_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 4": {
                     "id": "Hoppers(English Version)_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 4",
@@ -15243,15 +15243,15 @@
                 },
                 "2026-03-23": {
                     "shows": 17,
-                    "sold": 49,
+                    "sold": 71,
                     "seats": 2078,
-                    "gross": 4510
+                    "gross": 6940
                 },
                 "2026-03-24": {
                     "shows": 15,
-                    "sold": 19,
+                    "sold": 24,
                     "seats": 1823,
-                    "gross": 1705
+                    "gross": 2105
                 },
                 "2026-03-25": {
                     "shows": 16,
@@ -15262,9 +15262,9 @@
             },
             "total": {
                 "shows": 289,
-                "sold": 2103,
+                "sold": 2130,
                 "seats": 38984,
-                "gross": 211340
+                "gross": 214170
             },
             "image": "https://media.grabticks.com/programTf_524ee88c-ab1d-48df-a0cd-3c1ad487be00_.jpg"
         },
@@ -17051,10 +17051,10 @@
                     "date": "2026-03-24",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 1",
-                    "sold": 3,
+                    "sold": 5,
                     "seats": 156,
                     "price": 60,
-                    "gross": 180
+                    "gross": 300
                 },
                 "Sunshine Women’s Choir_2026-03-24_B+ cinema apm (Kwun Tong)_House 1": {
                     "id": "Sunshine Women’s Choir_2026-03-24_B+ cinema apm (Kwun Tong)_House 1",
@@ -17271,9 +17271,9 @@
                 },
                 "2026-03-24": {
                     "shows": 8,
-                    "sold": 9,
+                    "sold": 11,
                     "seats": 956,
-                    "gross": 615
+                    "gross": 735
                 },
                 "2026-03-25": {
                     "shows": 6,
@@ -17284,9 +17284,9 @@
             },
             "total": {
                 "shows": 151,
-                "sold": 598,
+                "sold": 600,
                 "seats": 17300,
-                "gross": 49540
+                "gross": 49660
             },
             "image": "https://media.grabticks.com/programEk_bfabfd72-8c0f-4735-8874-c0e1652b6bdd_.jpg"
         },
@@ -18204,10 +18204,10 @@
                     "date": "2026-03-24",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 3",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 136,
                     "price": 90,
-                    "gross": 0
+                    "gross": 180
                 },
                 "Double Happiness_2026-03-25_MOViE MOViE Cityplaza (Taikoo Shing)_MM MOMENTS": {
                     "id": "Double Happiness_2026-03-25_MOViE MOViE Cityplaza (Taikoo Shing)_MM MOMENTS",
@@ -18336,9 +18336,9 @@
                 },
                 "2026-03-24": {
                     "shows": 3,
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 281,
-                    "gross": 0
+                    "gross": 180
                 },
                 "2026-03-25": {
                     "shows": 3,
@@ -18349,9 +18349,9 @@
             },
             "total": {
                 "shows": 86,
-                "sold": 256,
+                "sold": 258,
                 "seats": 8162,
-                "gross": 20770
+                "gross": 20950
             },
             "image": "https://media.grabticks.com/programwk_f657d4cd-9f8f-4fa9-b76b-53037bc4cad9_.jpg"
         },
@@ -21483,10 +21483,10 @@
                     "date": "2026-03-23",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 7",
-                    "sold": 1,
+                    "sold": 3,
                     "seats": 93,
                     "price": 100,
-                    "gross": 100
+                    "gross": 300
                 },
                 "HAMNET_2026-03-23_PREMIERE ELEMENTS_House 12": {
                     "id": "HAMNET_2026-03-23_PREMIERE ELEMENTS_House 12",
@@ -21538,10 +21538,10 @@
                     "date": "2026-03-23",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 7",
-                    "sold": 4,
+                    "sold": 5,
                     "seats": 147,
                     "price": 110,
-                    "gross": 440
+                    "gross": 550
                 },
                 "HAMNET_2026-03-23_PALACE ifc_House 3": {
                     "id": "HAMNET_2026-03-23_PALACE ifc_House 3",
@@ -21560,10 +21560,10 @@
                     "date": "2026-03-23",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 5,
+                    "sold": 6,
                     "seats": 119,
                     "price": 95,
-                    "gross": 475
+                    "gross": 570
                 },
                 "HAMNET_2026-03-23_MOViE MOViE Pacific Place (Admiralty)_The Oval Office": {
                     "id": "HAMNET_2026-03-23_MOViE MOViE Pacific Place (Admiralty)_The Oval Office",
@@ -21604,10 +21604,10 @@
                     "date": "2026-03-24",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 12",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 58,
                     "price": 60,
-                    "gross": 0
+                    "gross": 60
                 },
                 "HAMNET_2026-03-24_MY CINEMA YOHO MALL_House 2": {
                     "id": "HAMNET_2026-03-24_MY CINEMA YOHO MALL_House 2",
@@ -21758,10 +21758,10 @@
                     "date": "2026-03-25",
                     "site": "PALACE ifc",
                     "house": "House 3",
-                    "sold": 0,
+                    "sold": 3,
                     "seats": 94,
                     "price": 130,
-                    "gross": 0
+                    "gross": 390
                 },
                 "HAMNET_2026-03-25_MOViE MOViE Pacific Place (Admiralty)_The Oval Office": {
                     "id": "HAMNET_2026-03-25_MOViE MOViE Pacific Place (Admiralty)_The Oval Office",
@@ -21813,10 +21813,10 @@
                     "date": "2026-03-23",
                     "site": "B+ cinema MOKO (Mong Kok East)",
                     "house": "House 3",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 87,
                     "price": 105,
-                    "gross": 0
+                    "gross": 105
                 },
                 "HAMNET_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 1": {
                     "id": "HAMNET_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 1",
@@ -21879,10 +21879,10 @@
                     "date": "2026-03-24",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 2,
+                    "sold": 4,
                     "seats": 119,
                     "price": 75,
-                    "gross": 150
+                    "gross": 300
                 },
                 "HAMNET_2026-03-24_CINEMATHEQUE_House 4": {
                     "id": "HAMNET_2026-03-24_CINEMATHEQUE_House 4",
@@ -21901,10 +21901,10 @@
                     "date": "2026-03-25",
                     "site": "CINEMATHEQUE",
                     "house": "House 3",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 119,
                     "price": 95,
-                    "gross": 0
+                    "gross": 95
                 },
                 "HAMNET_2026-03-25_CINEMATHEQUE_House 4": {
                     "id": "HAMNET_2026-03-25_CINEMATHEQUE_House 4",
@@ -21987,28 +21987,28 @@
                 },
                 "2026-03-23": {
                     "shows": 14,
-                    "sold": 47,
+                    "sold": 52,
                     "seats": 1296,
-                    "gross": 4485
+                    "gross": 4995
                 },
                 "2026-03-24": {
                     "shows": 14,
-                    "sold": 18,
+                    "sold": 21,
                     "seats": 1406,
-                    "gross": 1560
+                    "gross": 1770
                 },
                 "2026-03-25": {
                     "shows": 13,
-                    "sold": 7,
+                    "sold": 11,
                     "seats": 1177,
-                    "gross": 660
+                    "gross": 1145
                 }
             },
             "total": {
                 "shows": 201,
-                "sold": 1448,
+                "sold": 1460,
                 "seats": 21033,
-                "gross": 144725
+                "gross": 145930
             },
             "image": "https://media.grabticks.com/programyk_346d6e28-4d7f-44b9-bbe4-fc6952eee2cd_.jpg"
         },
@@ -22653,10 +22653,10 @@
                     "date": "2026-03-23",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 4",
-                    "sold": 1,
+                    "sold": 6,
                     "seats": 74,
                     "price": 110,
-                    "gross": 110
+                    "gross": 660
                 },
                 "GAMER GIRLS_2026-03-25_PREMIERE ELEMENTS_House 4": {
                     "id": "GAMER GIRLS_2026-03-25_PREMIERE ELEMENTS_House 4",
@@ -22664,10 +22664,10 @@
                     "date": "2026-03-25",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 74,
                     "price": 60,
-                    "gross": 0
+                    "gross": 60
                 }
             },
             "dates": {
@@ -22733,22 +22733,22 @@
                 },
                 "2026-03-23": {
                     "shows": 1,
-                    "sold": 1,
+                    "sold": 6,
                     "seats": 74,
-                    "gross": 110
+                    "gross": 660
                 },
                 "2026-03-25": {
                     "shows": 1,
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 74,
-                    "gross": 0
+                    "gross": 60
                 }
             },
             "total": {
                 "shows": 59,
-                "sold": 34,
+                "sold": 40,
                 "seats": 4942,
-                "gross": 3195
+                "gross": 3805
             },
             "image": "https://media.grabticks.com/programNm_725eff1a-2bf0-43f2-a380-c2209dad8c64_.jpg"
         },
@@ -24324,10 +24324,10 @@
                     "date": "2026-03-25",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 7",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 93,
                     "price": 60,
-                    "gross": 0
+                    "gross": 120
                 },
                 "The Snowball On A Sunny Day_2026-03-25_KINGSWOOD_House 2": {
                     "id": "The Snowball On A Sunny Day_2026-03-25_KINGSWOOD_House 2",
@@ -24462,16 +24462,16 @@
                 },
                 "2026-03-25": {
                     "shows": 5,
-                    "sold": 1,
+                    "sold": 3,
                     "seats": 524,
-                    "gross": 100
+                    "gross": 220
                 }
             },
             "total": {
                 "shows": 146,
-                "sold": 506,
+                "sold": 508,
                 "seats": 17192,
-                "gross": 34655
+                "gross": 34775
             },
             "image": "https://media.grabticks.com/programWk_cd6767a1-cd17-41d4-97c8-597449359825_.jpg"
         },
@@ -24549,10 +24549,10 @@
                     "date": "2026-04-13",
                     "site": "CINEMATHEQUE",
                     "house": "House 4",
-                    "sold": 87,
+                    "sold": 88,
                     "seats": 119,
                     "price": 230,
-                    "gross": 20010
+                    "gross": 20240
                 }
             },
             "dates": {
@@ -24594,16 +24594,16 @@
                 },
                 "2026-04-13": {
                     "shows": 1,
-                    "sold": 87,
+                    "sold": 88,
                     "seats": 119,
-                    "gross": 20010
+                    "gross": 20240
                 }
             },
             "total": {
                 "shows": 7,
-                "sold": 708,
+                "sold": 709,
                 "seats": 833,
-                "gross": 162840
+                "gross": 163070
             },
             "image": "https://media.grabticks.com/programFl_d10f5b21-83f5-414a-9d8c-81b008a6a2a5_.jpg"
         },
@@ -24879,10 +24879,10 @@
                     "date": "2026-03-24",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 6",
-                    "sold": 2,
+                    "sold": 3,
                     "seats": 52,
                     "price": 150,
-                    "gross": 300
+                    "gross": 450
                 },
                 "4DX Demon Slayer: Kimetsu No Yaiba Infinity Castle (Breathing Enhanced Edition)_2026-03-24_GALA CINEMA (Langham Place)_House 1": {
                     "id": "4DX Demon Slayer: Kimetsu No Yaiba Infinity Castle (Breathing Enhanced Edition)_2026-03-24_GALA CINEMA (Langham Place)_House 1",
@@ -24993,9 +24993,9 @@
                 },
                 "2026-03-24": {
                     "shows": 2,
-                    "sold": 3,
+                    "sold": 4,
                     "seats": 173,
-                    "gross": 450
+                    "gross": 600
                 },
                 "2026-03-25": {
                     "shows": 2,
@@ -25006,9 +25006,9 @@
             },
             "total": {
                 "shows": 28,
-                "sold": 394,
+                "sold": 395,
                 "seats": 2422,
-                "gross": 66640
+                "gross": 66790
             },
             "image": "https://media.grabticks.com/programMg_7c108a86-affd-49a8-ac67-52922b29cd8c_.jpg"
         },
@@ -25951,10 +25951,10 @@
                     "date": "2026-03-23",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "The Oval Office",
-                    "sold": 1,
+                    "sold": 3,
                     "seats": 20,
                     "price": 130,
-                    "gross": 130
+                    "gross": 390
                 },
                 "Wuthering Heights_2026-03-24_PREMIERE ELEMENTS_House 10": {
                     "id": "Wuthering Heights_2026-03-24_PREMIERE ELEMENTS_House 10",
@@ -25973,10 +25973,10 @@
                     "date": "2026-03-25",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 10",
-                    "sold": 3,
+                    "sold": 4,
                     "seats": 58,
                     "price": 60,
-                    "gross": 180
+                    "gross": 240
                 },
                 "Wuthering Heights_2026-03-25_MOViE MOViE Pacific Place (Admiralty)_The Oval Office": {
                     "id": "Wuthering Heights_2026-03-25_MOViE MOViE Pacific Place (Admiralty)_The Oval Office",
@@ -26065,9 +26065,9 @@
                 },
                 "2026-03-23": {
                     "shows": 2,
-                    "sold": 3,
+                    "sold": 5,
                     "seats": 78,
-                    "gross": 250
+                    "gross": 510
                 },
                 "2026-03-24": {
                     "shows": 1,
@@ -26077,16 +26077,16 @@
                 },
                 "2026-03-25": {
                     "shows": 2,
-                    "sold": 3,
+                    "sold": 4,
                     "seats": 78,
-                    "gross": 180
+                    "gross": 240
                 }
             },
             "total": {
                 "shows": 49,
-                "sold": 129,
+                "sold": 132,
                 "seats": 3938,
-                "gross": 14610
+                "gross": 14930
             },
             "image": "https://media.grabticks.com/programNi_b3b77def-0380-4dbf-b297-957ed91a4a75_.jpg"
         },
@@ -27283,10 +27283,10 @@
                     "date": "2026-03-23",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 6,
                     "seats": 197,
                     "price": 110,
-                    "gross": 0
+                    "gross": 660
                 },
                 "Girlfriends_2026-03-23_CINEMATHEQUE_House 3": {
                     "id": "Girlfriends_2026-03-23_CINEMATHEQUE_House 3",
@@ -27480,9 +27480,9 @@
                 },
                 "2026-03-23": {
                     "shows": 5,
-                    "sold": 3,
+                    "sold": 9,
                     "seats": 679,
-                    "gross": 290
+                    "gross": 950
                 },
                 "2026-03-24": {
                     "shows": 5,
@@ -27499,9 +27499,9 @@
             },
             "total": {
                 "shows": 118,
-                "sold": 365,
+                "sold": 371,
                 "seats": 15362,
-                "gross": 32590
+                "gross": 33250
             },
             "image": "https://media.grabticks.com/programmm_a349edb2-20cc-4961-966e-92bd190e5ab2_.jpg"
         },
@@ -28396,10 +28396,10 @@
                     "date": "2026-03-23",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 3",
-                    "sold": 1,
+                    "sold": 2,
                     "seats": 129,
                     "price": 100,
-                    "gross": 100
+                    "gross": 200
                 },
                 "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe_2026-03-24_KWAI FONG_House 4": {
                     "id": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe_2026-03-24_KWAI FONG_House 4",
@@ -28603,9 +28603,9 @@
                 },
                 "2026-03-23": {
                     "shows": 6,
-                    "sold": 7,
+                    "sold": 8,
                     "seats": 628,
-                    "gross": 710
+                    "gross": 810
                 },
                 "2026-03-24": {
                     "shows": 5,
@@ -28622,9 +28622,9 @@
             },
             "total": {
                 "shows": 93,
-                "sold": 283,
+                "sold": 284,
                 "seats": 9468,
-                "gross": 26150
+                "gross": 26250
             },
             "image": "https://media.grabticks.com/programlm_bf8eb8c2-32dd-4e6b-94a2-fb6ed322980a_.jpg"
         },
@@ -29886,10 +29886,10 @@
                     "date": "2026-03-23",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 6",
-                    "sold": 8,
+                    "sold": 9,
                     "seats": 52,
                     "price": 170,
-                    "gross": 1360
+                    "gross": 1530
                 },
                 "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe_2026-03-23_GALA CINEMA (Langham Place)_House 1": {
                     "id": "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe_2026-03-23_GALA CINEMA (Langham Place)_House 1",
@@ -29897,10 +29897,10 @@
                     "date": "2026-03-23",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 1",
-                    "sold": 8,
+                    "sold": 12,
                     "seats": 121,
                     "price": 170,
-                    "gross": 1360
+                    "gross": 2040
                 },
                 "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe_2026-03-24_B+ cinema apm (Kwun Tong)_House 6": {
                     "id": "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe_2026-03-24_B+ cinema apm (Kwun Tong)_House 6",
@@ -29908,10 +29908,10 @@
                     "date": "2026-03-24",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 6",
-                    "sold": 8,
+                    "sold": 12,
                     "seats": 52,
                     "price": 150,
-                    "gross": 1200
+                    "gross": 1800
                 },
                 "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe_2026-03-24_GALA CINEMA (Langham Place)_House 1": {
                     "id": "4DX MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe_2026-03-24_GALA CINEMA (Langham Place)_House 1",
@@ -29941,10 +29941,10 @@
                     "date": "2026-03-25",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 1",
-                    "sold": 4,
+                    "sold": 6,
                     "seats": 121,
                     "price": 170,
-                    "gross": 680
+                    "gross": 1020
                 }
             },
             "dates": {
@@ -30016,28 +30016,28 @@
                 },
                 "2026-03-23": {
                     "shows": 2,
-                    "sold": 16,
+                    "sold": 21,
                     "seats": 173,
-                    "gross": 2720
+                    "gross": 3570
                 },
                 "2026-03-24": {
                     "shows": 2,
-                    "sold": 15,
+                    "sold": 19,
                     "seats": 173,
-                    "gross": 2250
+                    "gross": 2850
                 },
                 "2026-03-25": {
                     "shows": 2,
-                    "sold": 4,
+                    "sold": 6,
                     "seats": 173,
-                    "gross": 680
+                    "gross": 1020
                 }
             },
             "total": {
                 "shows": 27,
-                "sold": 335,
+                "sold": 346,
                 "seats": 2301,
-                "gross": 56450
+                "gross": 58240
             },
             "image": "https://media.grabticks.com/programlm_bf8eb8c2-32dd-4e6b-94a2-fb6ed322980a_.jpg"
         },
@@ -31994,10 +31994,10 @@
                     "date": "2026-03-23",
                     "site": "MONGKOK",
                     "house": "House 5",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 57,
                     "price": 95,
-                    "gross": 0
+                    "gross": 190
                 },
                 "SCREAM 7_2026-03-23_GALA CINEMA (Langham Place)_House 6": {
                     "id": "SCREAM 7_2026-03-23_GALA CINEMA (Langham Place)_House 6",
@@ -32164,9 +32164,9 @@
                 },
                 "2026-03-23": {
                     "shows": 3,
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 450,
-                    "gross": 0
+                    "gross": 190
                 },
                 "2026-03-24": {
                     "shows": 3,
@@ -32183,9 +32183,9 @@
             },
             "total": {
                 "shows": 77,
-                "sold": 78,
+                "sold": 80,
                 "seats": 11327,
-                "gross": 7590
+                "gross": 7780
             },
             "image": "https://media.grabticks.com/programql_94677299-ee3e-477b-9dd0-2e500a391046_.jpg"
         },
@@ -34331,10 +34331,10 @@
                     "date": "2026-03-23",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 8",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 108,
                     "price": 100,
-                    "gross": 0
+                    "gross": 200
                 },
                 "Tokyo Taxi_2026-03-23_MOViE MOViE Cityplaza (Taikoo Shing)_House 3": {
                     "id": "Tokyo Taxi_2026-03-23_MOViE MOViE Cityplaza (Taikoo Shing)_House 3",
@@ -34397,10 +34397,10 @@
                     "date": "2026-03-23",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 7",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 147,
                     "price": 110,
-                    "gross": 0
+                    "gross": 220
                 },
                 "Tokyo Taxi_2026-03-23_PALACE ifc_House 3": {
                     "id": "Tokyo Taxi_2026-03-23_PALACE ifc_House 3",
@@ -34419,10 +34419,10 @@
                     "date": "2026-03-24",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 3",
-                    "sold": 3,
+                    "sold": 4,
                     "seats": 129,
                     "price": 60,
-                    "gross": 180
+                    "gross": 240
                 },
                 "Tokyo Taxi_2026-03-24_GALA CINEMA (Langham Place)_House 6": {
                     "id": "Tokyo Taxi_2026-03-24_GALA CINEMA (Langham Place)_House 6",
@@ -34452,10 +34452,10 @@
                     "date": "2026-03-24",
                     "site": "KWAI FONG",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 93,
                     "price": 60,
-                    "gross": 0
+                    "gross": 120
                 },
                 "Tokyo Taxi_2026-03-24_MOViE MOViE Pacific Place (Admiralty)_House 2": {
                     "id": "Tokyo Taxi_2026-03-24_MOViE MOViE Pacific Place (Admiralty)_House 2",
@@ -34507,10 +34507,10 @@
                     "date": "2026-03-25",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 2",
-                    "sold": 4,
+                    "sold": 5,
                     "seats": 119,
                     "price": 60,
-                    "gross": 240
+                    "gross": 300
                 },
                 "Tokyo Taxi_2026-03-25_GALA CINEMA (Langham Place)_House 6": {
                     "id": "Tokyo Taxi_2026-03-25_GALA CINEMA (Langham Place)_House 6",
@@ -34704,28 +34704,28 @@
                 },
                 "2026-03-23": {
                     "shows": 9,
-                    "sold": 11,
+                    "sold": 15,
                     "seats": 1130,
-                    "gross": 660
+                    "gross": 1080
                 },
                 "2026-03-24": {
                     "shows": 9,
-                    "sold": 3,
+                    "sold": 6,
                     "seats": 1179,
-                    "gross": 180
+                    "gross": 360
                 },
                 "2026-03-25": {
                     "shows": 9,
-                    "sold": 5,
+                    "sold": 6,
                     "seats": 1120,
-                    "gross": 325
+                    "gross": 385
                 }
             },
             "total": {
                 "shows": 174,
-                "sold": 572,
+                "sold": 580,
                 "seats": 20670,
-                "gross": 43030
+                "gross": 43690
             },
             "image": "https://media.grabticks.com/programol_cb6fecac-4e8c-46a3-aefa-e41adbbedfca_.jpg"
         },
@@ -36536,10 +36536,10 @@
                     "date": "2026-03-23",
                     "site": "PALACE ifc",
                     "house": "House 3",
-                    "sold": 2,
+                    "sold": 5,
                     "seats": 94,
                     "price": 130,
-                    "gross": 260
+                    "gross": 650
                 },
                 "Rental Family_2026-03-23_PREMIERE ELEMENTS_House 4": {
                     "id": "Rental Family_2026-03-23_PREMIERE ELEMENTS_House 4",
@@ -36591,10 +36591,10 @@
                     "date": "2026-03-24",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 4",
-                    "sold": 3,
+                    "sold": 6,
                     "seats": 117,
                     "price": 60,
-                    "gross": 180
+                    "gross": 360
                 },
                 "Rental Family_2026-03-24_PREMIERE ELEMENTS_House 9": {
                     "id": "Rental Family_2026-03-24_PREMIERE ELEMENTS_House 9",
@@ -36657,10 +36657,10 @@
                     "date": "2026-03-24",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 3",
-                    "sold": 5,
+                    "sold": 7,
                     "seats": 129,
                     "price": 85,
-                    "gross": 425
+                    "gross": 595
                 },
                 "Rental Family_2026-03-24_MOViE MOViE Pacific Place (Admiralty)_The Oval Office": {
                     "id": "Rental Family_2026-03-24_MOViE MOViE Pacific Place (Admiralty)_The Oval Office",
@@ -36789,10 +36789,10 @@
                     "date": "2026-03-24",
                     "site": "B+ cinema MOKO (Mong Kok East)",
                     "house": "House 3",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 87,
                     "price": 60,
-                    "gross": 0
+                    "gross": 120
                 },
                 "Rental Family_2026-03-25_B+ cinema MOKO (Mong Kok East)_House 3": {
                     "id": "Rental Family_2026-03-25_B+ cinema MOKO (Mong Kok East)_House 3",
@@ -36931,15 +36931,15 @@
                 },
                 "2026-03-23": {
                     "shows": 12,
-                    "sold": 18,
+                    "sold": 21,
                     "seats": 1168,
-                    "gross": 1460
+                    "gross": 1850
                 },
                 "2026-03-24": {
                     "shows": 11,
-                    "sold": 16,
+                    "sold": 23,
                     "seats": 1071,
-                    "gross": 1380
+                    "gross": 1850
                 },
                 "2026-03-25": {
                     "shows": 12,
@@ -36950,9 +36950,9 @@
             },
             "total": {
                 "shows": 192,
-                "sold": 784,
+                "sold": 794,
                 "seats": 20311,
-                "gross": 67640
+                "gross": 68500
             },
             "image": "https://media.grabticks.com/programkk_13d4e7a2-1673-42a8-9608-8615f9f4774a_.jpg"
         },
@@ -37691,10 +37691,10 @@
                     "date": "2026-03-24",
                     "site": "PALACE ifc",
                     "house": "House 1",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 88,
                     "price": 105,
-                    "gross": 0
+                    "gross": 105
                 },
                 "One Battle After Another_2026-03-24_PREMIERE ELEMENTS_House 10": {
                     "id": "One Battle After Another_2026-03-24_PREMIERE ELEMENTS_House 10",
@@ -37702,10 +37702,10 @@
                     "date": "2026-03-24",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 10",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 58,
                     "price": 110,
-                    "gross": 0
+                    "gross": 110
                 },
                 "One Battle After Another_2026-03-24_MOViE MOViE Pacific Place (Admiralty)_The Oval Office": {
                     "id": "One Battle After Another_2026-03-24_MOViE MOViE Pacific Place (Admiralty)_The Oval Office",
@@ -37822,9 +37822,9 @@
                 },
                 "2026-03-24": {
                     "shows": 3,
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 166,
-                    "gross": 0
+                    "gross": 215
                 },
                 "2026-03-25": {
                     "shows": 2,
@@ -37835,9 +37835,9 @@
             },
             "total": {
                 "shows": 42,
-                "sold": 95,
+                "sold": 97,
                 "seats": 3607,
-                "gross": 11890
+                "gross": 12105
             },
             "image": "https://media.grabticks.com/programAg_d084fcbb-e80b-40f7-bedb-ccd1e9772338_.jpg"
         },
@@ -38312,10 +38312,10 @@
                     "date": "2026-03-23",
                     "site": "CINEMATHEQUE",
                     "house": "House 4",
-                    "sold": 1,
+                    "sold": 5,
                     "seats": 119,
                     "price": 95,
-                    "gross": 95
+                    "gross": 475
                 },
                 "Sentimental Value_2026-03-23_PALACE ifc_House 4": {
                     "id": "Sentimental Value_2026-03-23_PALACE ifc_House 4",
@@ -38323,10 +38323,10 @@
                     "date": "2026-03-23",
                     "site": "PALACE ifc",
                     "house": "House 4",
-                    "sold": 1,
+                    "sold": 6,
                     "seats": 98,
                     "price": 130,
-                    "gross": 130
+                    "gross": 780
                 },
                 "Sentimental Value_2026-03-23_MOViE MOViE Pacific Place (Admiralty)_The Oval Office": {
                     "id": "Sentimental Value_2026-03-23_MOViE MOViE Pacific Place (Admiralty)_The Oval Office",
@@ -38482,9 +38482,9 @@
                 },
                 "2026-03-23": {
                     "shows": 3,
-                    "sold": 2,
+                    "sold": 11,
                     "seats": 237,
-                    "gross": 225
+                    "gross": 1255
                 },
                 "2026-03-24": {
                     "shows": 3,
@@ -38501,9 +38501,9 @@
             },
             "total": {
                 "shows": 50,
-                "sold": 201,
+                "sold": 210,
                 "seats": 5327,
-                "gross": 18015
+                "gross": 19045
             },
             "image": "https://media.grabticks.com/programFj_948b592b-c1a8-4463-b0ff-71a2467f1696_.jpg"
         },
@@ -38614,10 +38614,10 @@
                     "date": "2026-03-27",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 1",
-                    "sold": 12,
+                    "sold": 14,
                     "seats": 121,
                     "price": 170,
-                    "gross": 2040
+                    "gross": 2380
                 },
                 "4DX ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS (2026)_2026-03-28_B+ cinema apm (Kwun Tong)_House 6": {
                     "id": "4DX ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS (2026)_2026-03-28_B+ cinema apm (Kwun Tong)_House 6",
@@ -38625,10 +38625,10 @@
                     "date": "2026-03-28",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 6",
-                    "sold": 11,
+                    "sold": 12,
                     "seats": 52,
                     "price": 170,
-                    "gross": 1870
+                    "gross": 2040
                 },
                 "4DX ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS (2026)_2026-03-29_GALA CINEMA (Langham Place)_House 1": {
                     "id": "4DX ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS (2026)_2026-03-29_GALA CINEMA (Langham Place)_House 1",
@@ -38687,15 +38687,15 @@
                 },
                 "2026-03-27": {
                     "shows": 1,
-                    "sold": 12,
+                    "sold": 14,
                     "seats": 121,
-                    "gross": 2040
+                    "gross": 2380
                 },
                 "2026-03-28": {
                     "shows": 1,
-                    "sold": 11,
+                    "sold": 12,
                     "seats": 52,
-                    "gross": 1870
+                    "gross": 2040
                 },
                 "2026-03-29": {
                     "shows": 1,
@@ -38706,9 +38706,9 @@
             },
             "total": {
                 "shows": 12,
-                "sold": 616,
+                "sold": 619,
                 "seats": 1038,
-                "gross": 104720
+                "gross": 105230
             },
             "image": "https://media.grabticks.com/programsl_a055cfac-85b8-4d3d-906d-84e6027e1293_.jpg"
         },
@@ -39437,10 +39437,10 @@
                     "date": "2026-03-30",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "House 4",
-                    "sold": 4,
+                    "sold": 6,
                     "seats": 81,
                     "price": 130,
-                    "gross": 520
+                    "gross": 780
                 }
             },
             "dates": {
@@ -39518,16 +39518,16 @@
                 },
                 "2026-03-30": {
                     "shows": 1,
-                    "sold": 4,
+                    "sold": 6,
                     "seats": 81,
-                    "gross": 520
+                    "gross": 780
                 }
             },
             "total": {
                 "shows": 13,
-                "sold": 808,
+                "sold": 810,
                 "seats": 1456,
-                "gross": 105040
+                "gross": 105300
             },
             "image": "https://media.grabticks.com/programrl_bb0cbde4-93bd-4d84-aa27-3cccb9e92cc0_.jpg"
         },
@@ -39760,10 +39760,10 @@
                     "date": "2026-03-23",
                     "site": "CINEMATHEQUE",
                     "house": "House 4",
-                    "sold": 3,
+                    "sold": 9,
                     "seats": 119,
                     "price": 145,
-                    "gross": 435
+                    "gross": 1305
                 },
                 "Kokuho_2026-03-24_CINEMATHEQUE_House 4": {
                     "id": "Kokuho_2026-03-24_CINEMATHEQUE_House 4",
@@ -39869,9 +39869,9 @@
                 },
                 "2026-03-23": {
                     "shows": 1,
-                    "sold": 3,
+                    "sold": 9,
                     "seats": 119,
-                    "gross": 435
+                    "gross": 1305
                 },
                 "2026-03-24": {
                     "shows": 1,
@@ -39888,9 +39888,9 @@
             },
             "total": {
                 "shows": 23,
-                "sold": 70,
+                "sold": 76,
                 "seats": 2161,
-                "gross": 10170
+                "gross": 11040
             },
             "image": "https://media.grabticks.com/programFc_06c3fdbd-48f6-4f2a-a5c0-fc70d64e5919_.jpg"
         },
@@ -41288,10 +41288,10 @@
                     "date": "2026-03-23",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 5",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 202,
                     "price": 120,
-                    "gross": 0
+                    "gross": 120
                 },
                 "Marty Supreme_2026-03-23_PALACE ifc_House 2": {
                     "id": "Marty Supreme_2026-03-23_PALACE ifc_House 2",
@@ -41299,10 +41299,10 @@
                     "date": "2026-03-23",
                     "site": "PALACE ifc",
                     "house": "House 2",
-                    "sold": 2,
+                    "sold": 4,
                     "seats": 99,
                     "price": 150,
-                    "gross": 300
+                    "gross": 600
                 },
                 "Marty Supreme_2026-03-23_CINEMATHEQUE_House 2": {
                     "id": "Marty Supreme_2026-03-23_CINEMATHEQUE_House 2",
@@ -41354,10 +41354,10 @@
                     "date": "2026-03-23",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "House 2",
-                    "sold": 1,
+                    "sold": 5,
                     "seats": 130,
                     "price": 150,
-                    "gross": 150
+                    "gross": 750
                 },
                 "Marty Supreme_2026-03-23_MONGKOK_House 5": {
                     "id": "Marty Supreme_2026-03-23_MONGKOK_House 5",
@@ -41376,10 +41376,10 @@
                     "date": "2026-03-23",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 5",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 23,
                     "price": 130,
-                    "gross": 0
+                    "gross": 260
                 },
                 "Marty Supreme_2026-03-23_B+ cinema apm (Kwun Tong)_House 4": {
                     "id": "Marty Supreme_2026-03-23_B+ cinema apm (Kwun Tong)_House 4",
@@ -41453,10 +41453,10 @@
                     "date": "2026-03-23",
                     "site": "PALACE ifc",
                     "house": "House 1",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 88,
                     "price": 150,
-                    "gross": 0
+                    "gross": 300
                 },
                 "Marty Supreme_2026-03-24_B+ cinema apm (Kwun Tong)_House 1": {
                     "id": "Marty Supreme_2026-03-24_B+ cinema apm (Kwun Tong)_House 1",
@@ -41464,10 +41464,10 @@
                     "date": "2026-03-24",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 1",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 116,
                     "price": 80,
-                    "gross": 0
+                    "gross": 80
                 },
                 "Marty Supreme_2026-03-24_KWAI FONG_House 2": {
                     "id": "Marty Supreme_2026-03-24_KWAI FONG_House 2",
@@ -41519,10 +41519,10 @@
                     "date": "2026-03-24",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 5",
-                    "sold": 1,
+                    "sold": 4,
                     "seats": 160,
                     "price": 80,
-                    "gross": 80
+                    "gross": 320
                 },
                 "Marty Supreme_2026-03-24_MOViE MOViE Pacific Place (Admiralty)_MM Plus": {
                     "id": "Marty Supreme_2026-03-24_MOViE MOViE Pacific Place (Admiralty)_MM Plus",
@@ -41607,10 +41607,10 @@
                     "date": "2026-03-24",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 4",
-                    "sold": 2,
+                    "sold": 4,
                     "seats": 102,
                     "price": 105,
-                    "gross": 210
+                    "gross": 420
                 },
                 "Marty Supreme_2026-03-24_KWAI FONG_House 4": {
                     "id": "Marty Supreme_2026-03-24_KWAI FONG_House 4",
@@ -41750,10 +41750,10 @@
                     "date": "2026-03-25",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 5",
-                    "sold": 2,
+                    "sold": 3,
                     "seats": 160,
                     "price": 80,
-                    "gross": 160
+                    "gross": 240
                 },
                 "Marty Supreme_2026-03-25_MOViE MOViE Pacific Place (Admiralty)_House 3": {
                     "id": "Marty Supreme_2026-03-25_MOViE MOViE Pacific Place (Admiralty)_House 3",
@@ -41937,10 +41937,10 @@
                     "date": "2026-03-23",
                     "site": "B+ cinema MOKO (Mong Kok East)",
                     "house": "House 1",
-                    "sold": 6,
+                    "sold": 8,
                     "seats": 116,
                     "price": 125,
-                    "gross": 750
+                    "gross": 1000
                 },
                 "Marty Supreme_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 3": {
                     "id": "Marty Supreme_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 3",
@@ -41948,10 +41948,10 @@
                     "date": "2026-03-24",
                     "site": "B+ cinema MOKO (Mong Kok East)",
                     "house": "House 3",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 87,
                     "price": 80,
-                    "gross": 0
+                    "gross": 160
                 },
                 "Marty Supreme_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 1": {
                     "id": "Marty Supreme_2026-03-24_B+ cinema MOKO (Mong Kok East)_House 1",
@@ -41992,10 +41992,10 @@
                     "date": "2026-03-24",
                     "site": "CINEMATHEQUE",
                     "house": "House 2",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 119,
                     "price": 95,
-                    "gross": 0
+                    "gross": 95
                 },
                 "Marty Supreme_2026-03-25_CINEMATHEQUE_House 2": {
                     "id": "Marty Supreme_2026-03-25_CINEMATHEQUE_House 2",
@@ -42048,28 +42048,28 @@
                 },
                 "2026-03-23": {
                     "shows": 24,
-                    "sold": 47,
+                    "sold": 60,
                     "seats": 2886,
-                    "gross": 4980
+                    "gross": 6810
                 },
                 "2026-03-24": {
                     "shows": 24,
-                    "sold": 18,
+                    "sold": 27,
                     "seats": 2870,
-                    "gross": 1965
+                    "gross": 2750
                 },
                 "2026-03-25": {
                     "shows": 24,
-                    "sold": 10,
+                    "sold": 11,
                     "seats": 2848,
-                    "gross": 1220
+                    "gross": 1300
                 }
             },
             "total": {
                 "shows": 163,
-                "sold": 1115,
+                "sold": 1138,
                 "seats": 19505,
-                "gross": 139165
+                "gross": 141860
             },
             "image": "https://media.grabticks.com/programLm_00b7dd07-f04c-4fe7-8569-61b5695f9181_.jpg"
         },
@@ -42222,10 +42222,10 @@
                     "date": "2026-03-31",
                     "site": "CINEMATHEQUE",
                     "house": "House 4",
-                    "sold": 7,
+                    "sold": 8,
                     "seats": 119,
                     "price": 75,
-                    "gross": 525
+                    "gross": 600
                 },
                 "Picnic at Hanging Rock (50th Anniversary 4K Restoration)_2026-04-06_CINEMATHEQUE_House 4": {
                     "id": "Picnic at Hanging Rock (50th Anniversary 4K Restoration)_2026-04-06_CINEMATHEQUE_House 4",
@@ -42278,9 +42278,9 @@
                 },
                 "2026-03-31": {
                     "shows": 1,
-                    "sold": 7,
+                    "sold": 8,
                     "seats": 119,
-                    "gross": 525
+                    "gross": 600
                 },
                 "2026-04-06": {
                     "shows": 1,
@@ -42291,9 +42291,9 @@
             },
             "total": {
                 "shows": 8,
-                "sold": 226,
+                "sold": 227,
                 "seats": 952,
-                "gross": 20170
+                "gross": 20245
             },
             "image": "https://media.grabticks.com/programYk_976582e2-7795-45b4-bd36-91ba3c0d1b11_.jpg"
         },
@@ -43498,10 +43498,10 @@
                     "date": "2026-03-23",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 9",
-                    "sold": 1,
+                    "sold": 4,
                     "seats": 127,
                     "price": 110,
-                    "gross": 110
+                    "gross": 440
                 },
                 "SINNERS_2026-03-23_MOViE MOViE Pacific Place (Admiralty)_House 5": {
                     "id": "SINNERS_2026-03-23_MOViE MOViE Pacific Place (Admiralty)_House 5",
@@ -43509,10 +43509,10 @@
                     "date": "2026-03-23",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "House 5",
-                    "sold": 4,
+                    "sold": 6,
                     "seats": 113,
                     "price": 130,
-                    "gross": 520
+                    "gross": 780
                 },
                 "SINNERS_2026-03-23_PREMIERE ELEMENTS_House 7": {
                     "id": "SINNERS_2026-03-23_PREMIERE ELEMENTS_House 7",
@@ -43520,10 +43520,10 @@
                     "date": "2026-03-23",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 7",
-                    "sold": 4,
+                    "sold": 5,
                     "seats": 147,
                     "price": 110,
-                    "gross": 440
+                    "gross": 550
                 },
                 "SINNERS_2026-03-24_PREMIERE ELEMENTS_House 9": {
                     "id": "SINNERS_2026-03-24_PREMIERE ELEMENTS_House 9",
@@ -43531,10 +43531,10 @@
                     "date": "2026-03-24",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 9",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 127,
                     "price": 90,
-                    "gross": 0
+                    "gross": 90
                 },
                 "SINNERS_2026-03-24_MOViE MOViE Pacific Place (Admiralty)_The Oval Office": {
                     "id": "SINNERS_2026-03-24_MOViE MOViE Pacific Place (Admiralty)_The Oval Office",
@@ -43553,10 +43553,10 @@
                     "date": "2026-03-24",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 7",
-                    "sold": 4,
+                    "sold": 6,
                     "seats": 147,
                     "price": 90,
-                    "gross": 360
+                    "gross": 540
                 },
                 "SINNERS_2026-03-25_PREMIERE ELEMENTS_House 9": {
                     "id": "SINNERS_2026-03-25_PREMIERE ELEMENTS_House 9",
@@ -43637,15 +43637,15 @@
                 },
                 "2026-03-23": {
                     "shows": 3,
-                    "sold": 9,
+                    "sold": 15,
                     "seats": 387,
-                    "gross": 1070
+                    "gross": 1770
                 },
                 "2026-03-24": {
                     "shows": 3,
-                    "sold": 4,
+                    "sold": 7,
                     "seats": 294,
-                    "gross": 360
+                    "gross": 630
                 },
                 "2026-03-25": {
                     "shows": 3,
@@ -43656,9 +43656,9 @@
             },
             "total": {
                 "shows": 37,
-                "sold": 99,
+                "sold": 108,
                 "seats": 3931,
-                "gross": 11330
+                "gross": 12300
             },
             "image": "https://media.grabticks.com/programjn_5c2156ed-d080-4076-8dd8-e306203b7c22_.jpg"
         },
@@ -43812,10 +43812,10 @@
                     "date": "2026-03-24",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 56,
+                    "sold": 57,
                     "seats": 119,
                     "price": 75,
-                    "gross": 4200
+                    "gross": 4275
                 },
                 "The Worst Person In The World_2026-03-11_CINEMATHEQUE_House 1": {
                     "id": "The Worst Person In The World_2026-03-11_CINEMATHEQUE_House 1",
@@ -43888,9 +43888,9 @@
                 },
                 "2026-03-24": {
                     "shows": 1,
-                    "sold": 56,
+                    "sold": 57,
                     "seats": 119,
-                    "gross": 4200
+                    "gross": 4275
                 },
                 "2026-03-11": {
                     "shows": 1,
@@ -43925,9 +43925,9 @@
             },
             "total": {
                 "shows": 8,
-                "sold": 287,
+                "sold": 288,
                 "seats": 952,
-                "gross": 25445
+                "gross": 25520
             },
             "image": "https://media.grabticks.com/programNj_0acfb3d8-a52d-4e44-a640-7d50fdf0789a_.jpg"
         },
@@ -44185,10 +44185,10 @@
                     "date": "2026-04-04",
                     "site": "CINEMATHEQUE",
                     "house": "House 4",
-                    "sold": 67,
+                    "sold": 69,
                     "seats": 119,
                     "price": 95,
-                    "gross": 6365
+                    "gross": 6555
                 },
                 "Portrait of a Lady on Fire_2026-04-06_CINEMATHEQUE_House 4": {
                     "id": "Portrait of a Lady on Fire_2026-04-06_CINEMATHEQUE_House 4",
@@ -44196,10 +44196,10 @@
                     "date": "2026-04-06",
                     "site": "CINEMATHEQUE",
                     "house": "House 4",
-                    "sold": 61,
+                    "sold": 65,
                     "seats": 119,
                     "price": 95,
-                    "gross": 5795
+                    "gross": 6175
                 },
                 "Portrait of a Lady on Fire_2026-04-07_CINEMATHEQUE_House 4": {
                     "id": "Portrait of a Lady on Fire_2026-04-07_CINEMATHEQUE_House 4",
@@ -44218,10 +44218,10 @@
                     "date": "2026-04-08",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 35,
+                    "sold": 37,
                     "seats": 119,
                     "price": 95,
-                    "gross": 3325
+                    "gross": 3515
                 },
                 "Portrait of a Lady on Fire_2026-04-11_PALACE ifc_House 1": {
                     "id": "Portrait of a Lady on Fire_2026-04-11_PALACE ifc_House 1",
@@ -44251,10 +44251,10 @@
                     "date": "2026-04-18",
                     "site": "PALACE ifc",
                     "house": "House 3",
-                    "sold": 9,
+                    "sold": 11,
                     "seats": 94,
                     "price": 130,
-                    "gross": 1170
+                    "gross": 1430
                 },
                 "Portrait of a Lady on Fire_2026-04-20_PALACE ifc_House 3": {
                     "id": "Portrait of a Lady on Fire_2026-04-20_PALACE ifc_House 3",
@@ -44319,15 +44319,15 @@
                 },
                 "2026-04-04": {
                     "shows": 1,
-                    "sold": 67,
+                    "sold": 69,
                     "seats": 119,
-                    "gross": 6365
+                    "gross": 6555
                 },
                 "2026-04-06": {
                     "shows": 1,
-                    "sold": 61,
+                    "sold": 65,
                     "seats": 119,
-                    "gross": 5795
+                    "gross": 6175
                 },
                 "2026-04-07": {
                     "shows": 1,
@@ -44337,9 +44337,9 @@
                 },
                 "2026-04-08": {
                     "shows": 2,
-                    "sold": 48,
+                    "sold": 50,
                     "seats": 213,
-                    "gross": 5015
+                    "gross": 5205
                 },
                 "2026-04-11": {
                     "shows": 1,
@@ -44349,9 +44349,9 @@
                 },
                 "2026-04-18": {
                     "shows": 1,
-                    "sold": 9,
+                    "sold": 11,
                     "seats": 94,
-                    "gross": 1170
+                    "gross": 1430
                 },
                 "2026-04-20": {
                     "shows": 1,
@@ -44362,9 +44362,9 @@
             },
             "total": {
                 "shows": 16,
-                "sold": 1070,
+                "sold": 1080,
                 "seats": 1773,
-                "gross": 106060
+                "gross": 107080
             },
             "image": "https://media.grabticks.com/programFl_d10f5b21-83f5-414a-9d8c-81b008a6a2a5_.jpg"
         },
@@ -44464,10 +44464,10 @@
                     "date": "2026-03-23",
                     "site": "MONGKOK",
                     "house": "House 1",
-                    "sold": 84,
+                    "sold": 92,
                     "seats": 260,
                     "price": 250,
-                    "gross": 21000
+                    "gross": 23000
                 },
                 "Dhurandhar: The Revenge_2026-03-24_PREMIERE ELEMENTS_House 6": {
                     "id": "Dhurandhar: The Revenge_2026-03-24_PREMIERE ELEMENTS_House 6",
@@ -44475,10 +44475,10 @@
                     "date": "2026-03-24",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 6",
-                    "sold": 197,
+                    "sold": 198,
                     "seats": 320,
                     "price": 250,
-                    "gross": 49250
+                    "gross": 49500
                 },
                 "Dhurandhar: The Revenge_2026-03-24_MONGKOK_House 1": {
                     "id": "Dhurandhar: The Revenge_2026-03-24_MONGKOK_House 1",
@@ -44519,10 +44519,10 @@
                     "date": "2026-03-26",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 6",
-                    "sold": 117,
+                    "sold": 123,
                     "seats": 320,
                     "price": 250,
-                    "gross": 29250
+                    "gross": 30750
                 },
                 "Dhurandhar: The Revenge_2026-03-27_PREMIERE ELEMENTS_House 6": {
                     "id": "Dhurandhar: The Revenge_2026-03-27_PREMIERE ELEMENTS_House 6",
@@ -44530,10 +44530,10 @@
                     "date": "2026-03-27",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 6",
-                    "sold": 199,
+                    "sold": 204,
                     "seats": 320,
                     "price": 250,
-                    "gross": 49750
+                    "gross": 51000
                 },
                 "Dhurandhar: The Revenge_2026-03-28_PREMIERE ELEMENTS_House 6": {
                     "id": "Dhurandhar: The Revenge_2026-03-28_PREMIERE ELEMENTS_House 6",
@@ -44541,10 +44541,10 @@
                     "date": "2026-03-28",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 6",
-                    "sold": 164,
+                    "sold": 165,
                     "seats": 320,
                     "price": 250,
-                    "gross": 41000
+                    "gross": 41250
                 },
                 "Dhurandhar: The Revenge_2026-03-29_PREMIERE ELEMENTS_THX": {
                     "id": "Dhurandhar: The Revenge_2026-03-29_PREMIERE ELEMENTS_THX",
@@ -44574,10 +44574,10 @@
                     "date": "2026-03-27",
                     "site": "MONGKOK",
                     "house": "House 1",
-                    "sold": 19,
+                    "sold": 22,
                     "seats": 260,
                     "price": 250,
-                    "gross": 4750
+                    "gross": 5500
                 },
                 "Dhurandhar: The Revenge_2026-03-28_MONGKOK_House 1": {
                     "id": "Dhurandhar: The Revenge_2026-03-28_MONGKOK_House 1",
@@ -44585,10 +44585,10 @@
                     "date": "2026-03-28",
                     "site": "MONGKOK",
                     "house": "House 1",
-                    "sold": 7,
+                    "sold": 9,
                     "seats": 260,
                     "price": 250,
-                    "gross": 1750
+                    "gross": 2250
                 },
                 "Dhurandhar: The Revenge_2026-03-29_MONGKOK_House 1": {
                     "id": "Dhurandhar: The Revenge_2026-03-29_MONGKOK_House 1",
@@ -44623,15 +44623,15 @@
                 },
                 "2026-03-23": {
                     "shows": 2,
-                    "sold": 315,
+                    "sold": 323,
                     "seats": 580,
-                    "gross": 78750
+                    "gross": 80750
                 },
                 "2026-03-24": {
                     "shows": 2,
-                    "sold": 217,
+                    "sold": 218,
                     "seats": 580,
-                    "gross": 54250
+                    "gross": 54500
                 },
                 "2026-03-25": {
                     "shows": 2,
@@ -44641,21 +44641,21 @@
                 },
                 "2026-03-26": {
                     "shows": 2,
-                    "sold": 119,
+                    "sold": 125,
                     "seats": 580,
-                    "gross": 29750
+                    "gross": 31250
                 },
                 "2026-03-27": {
                     "shows": 2,
-                    "sold": 218,
+                    "sold": 226,
                     "seats": 580,
-                    "gross": 54500
+                    "gross": 56500
                 },
                 "2026-03-28": {
                     "shows": 2,
-                    "sold": 171,
+                    "sold": 174,
                     "seats": 580,
-                    "gross": 42750
+                    "gross": 43500
                 },
                 "2026-03-29": {
                     "shows": 2,
@@ -44666,9 +44666,9 @@
             },
             "total": {
                 "shows": 21,
-                "sold": 2622,
+                "sold": 2648,
                 "seats": 5529,
-                "gross": 655500
+                "gross": 662000
             },
             "image": "https://media.grabticks.com/programYm_2a5da8bb-2f78-483b-977d-da0cecebf6b7_.jpg"
         },
@@ -45256,10 +45256,10 @@
                     "date": "2026-04-19",
                     "site": "PREMIERE ELEMENTS",
                     "house": "THX",
-                    "sold": 88,
+                    "sold": 89,
                     "seats": 261,
                     "price": 420,
-                    "gross": 36960
+                    "gross": 37380
                 },
                 "“Kill Bill: The Whole Bloody Affair” Death List Special Screening_2026-04-26_PREMIERE ELEMENTS_THX": {
                     "id": "“Kill Bill: The Whole Bloody Affair” Death List Special Screening_2026-04-26_PREMIERE ELEMENTS_THX",
@@ -45267,10 +45267,10 @@
                     "date": "2026-04-26",
                     "site": "PREMIERE ELEMENTS",
                     "house": "THX",
-                    "sold": 75,
+                    "sold": 77,
                     "seats": 261,
                     "price": 420,
-                    "gross": 31500
+                    "gross": 32340
                 }
             },
             "dates": {
@@ -45300,22 +45300,22 @@
                 },
                 "2026-04-19": {
                     "shows": 1,
-                    "sold": 88,
+                    "sold": 89,
                     "seats": 261,
-                    "gross": 36960
+                    "gross": 37380
                 },
                 "2026-04-26": {
                     "shows": 1,
-                    "sold": 75,
+                    "sold": 77,
                     "seats": 261,
-                    "gross": 31500
+                    "gross": 32340
                 }
             },
             "total": {
                 "shows": 6,
-                "sold": 704,
+                "sold": 707,
                 "seats": 1260,
-                "gross": 295680
+                "gross": 296940
             },
             "image": "https://media.grabticks.com/programml_29b939d5-9c67-4ce7-a9e9-0d2a53de6372_.jpg"
         },
@@ -45545,25 +45545,25 @@
                     "date": "2026-03-25",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 2,
+                    "sold": 12,
                     "seats": 119,
                     "price": 95,
-                    "gross": 190
+                    "gross": 1140
                 }
             },
             "dates": {
                 "2026-03-25": {
                     "shows": 1,
-                    "sold": 2,
+                    "sold": 12,
                     "seats": 119,
-                    "gross": 190
+                    "gross": 1140
                 }
             },
             "total": {
                 "shows": 1,
-                "sold": 2,
+                "sold": 12,
                 "seats": 119,
-                "gross": 190
+                "gross": 1140
             },
             "image": "https://media.grabticks.com/programVc_ddf446dd-ead1-4e07-934f-5b0ffff8569b_.jpg"
         },
@@ -46045,10 +46045,10 @@
                     "date": "2026-05-30",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "House 4",
-                    "sold": 3,
+                    "sold": 4,
                     "seats": 81,
                     "price": 220,
-                    "gross": 660
+                    "gross": 880
                 },
                 "Merrily We Roll Along (2026)_2026-06-07_PALACE ifc_House 1": {
                     "id": "Merrily We Roll Along (2026)_2026-06-07_PALACE ifc_House 1",
@@ -46101,9 +46101,9 @@
                 },
                 "2026-05-30": {
                     "shows": 1,
-                    "sold": 3,
+                    "sold": 4,
                     "seats": 81,
-                    "gross": 660
+                    "gross": 880
                 },
                 "2026-06-07": {
                     "shows": 1,
@@ -46114,9 +46114,9 @@
             },
             "total": {
                 "shows": 9,
-                "sold": 306,
+                "sold": 307,
                 "seats": 847,
-                "gross": 67320
+                "gross": 67540
             },
             "image": "https://media.grabticks.com/programWl_ea69c16b-9be0-4e31-abb4-661fcc7ca98e_.jpg"
         },
@@ -46128,10 +46128,10 @@
                     "date": "2026-03-29",
                     "site": "CINEMATHEQUE",
                     "house": "House 4",
-                    "sold": 42,
+                    "sold": 43,
                     "seats": 119,
                     "price": 95,
-                    "gross": 3990
+                    "gross": 4085
                 },
                 "As the Water Flows_2026-04-02_CINEMATHEQUE_House 4": {
                     "id": "As the Water Flows_2026-04-02_CINEMATHEQUE_House 4",
@@ -46150,10 +46150,10 @@
                     "date": "2026-04-07",
                     "site": "CINEMATHEQUE",
                     "house": "House 4",
-                    "sold": 15,
+                    "sold": 17,
                     "seats": 119,
                     "price": 95,
-                    "gross": 1425
+                    "gross": 1615
                 },
                 "As the Water Flows_2026-04-15_CINEMATHEQUE_House 4": {
                     "id": "As the Water Flows_2026-04-15_CINEMATHEQUE_House 4",
@@ -46172,18 +46172,18 @@
                     "date": "2026-03-29",
                     "site": "CINEMATHEQUE",
                     "house": "House 3",
-                    "sold": 21,
+                    "sold": 23,
                     "seats": 119,
                     "price": 95,
-                    "gross": 1995
+                    "gross": 2185
                 }
             },
             "dates": {
                 "2026-03-29": {
                     "shows": 2,
-                    "sold": 63,
+                    "sold": 66,
                     "seats": 238,
-                    "gross": 5985
+                    "gross": 6270
                 },
                 "2026-04-02": {
                     "shows": 1,
@@ -46193,9 +46193,9 @@
                 },
                 "2026-04-07": {
                     "shows": 1,
-                    "sold": 15,
+                    "sold": 17,
                     "seats": 119,
-                    "gross": 1425
+                    "gross": 1615
                 },
                 "2026-04-15": {
                     "shows": 1,
@@ -46206,9 +46206,9 @@
             },
             "total": {
                 "shows": 5,
-                "sold": 87,
+                "sold": 92,
                 "seats": 595,
-                "gross": 8265
+                "gross": 8740
             },
             "image": "https://media.grabticks.com/programgn_c069ea53-c680-47b5-8d36-75731ab6a0e4_.jpg"
         },
@@ -46363,10 +46363,10 @@
                     "date": "2026-04-12",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 4",
-                    "sold": 130,
+                    "sold": 132,
                     "seats": 197,
                     "price": 360,
-                    "gross": 46800
+                    "gross": 47520
                 },
                 "BTS WORLD TOUR ‘ARIRANG’ IN GOYANG: LIVE VIEWING_2026-04-12_MOViE MOViE Cityplaza (Taikoo Shing)_House 5": {
                     "id": "BTS WORLD TOUR ‘ARIRANG’ IN GOYANG: LIVE VIEWING_2026-04-12_MOViE MOViE Cityplaza (Taikoo Shing)_House 5",
@@ -46385,10 +46385,10 @@
                     "date": "2026-04-12",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 5",
-                    "sold": 92,
+                    "sold": 93,
                     "seats": 160,
                     "price": 360,
-                    "gross": 33120
+                    "gross": 33480
                 }
             },
             "dates": {
@@ -46400,16 +46400,16 @@
                 },
                 "2026-04-12": {
                     "shows": 6,
-                    "sold": 425,
+                    "sold": 428,
                     "seats": 965,
-                    "gross": 153000
+                    "gross": 154080
                 }
             },
             "total": {
                 "shows": 16,
-                "sold": 1893,
+                "sold": 1896,
                 "seats": 2962,
-                "gross": 681480
+                "gross": 682560
             },
             "image": "https://media.grabticks.com/programOl_4574b6b0-f3ac-439d-b5c1-5a456ae02725_.jpg"
         },
@@ -48930,10 +48930,10 @@
                     "date": "2026-03-23",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 2",
-                    "sold": 5,
+                    "sold": 6,
                     "seats": 119,
                     "price": 100,
-                    "gross": 500
+                    "gross": 600
                 },
                 "CIAO UFO_2026-03-23_B+ cinema apm (Kwun Tong)_House 3": {
                     "id": "CIAO UFO_2026-03-23_B+ cinema apm (Kwun Tong)_House 3",
@@ -48974,10 +48974,10 @@
                     "date": "2026-03-23",
                     "site": "CINEMATHEQUE",
                     "house": "House 3",
-                    "sold": 9,
+                    "sold": 12,
                     "seats": 119,
                     "price": 95,
-                    "gross": 855
+                    "gross": 1140
                 },
                 "CIAO UFO_2026-03-23_PREMIERE ELEMENTS_House 3": {
                     "id": "CIAO UFO_2026-03-23_PREMIERE ELEMENTS_House 3",
@@ -49051,10 +49051,10 @@
                     "date": "2026-03-23",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 5",
-                    "sold": 6,
+                    "sold": 8,
                     "seats": 118,
                     "price": 100,
-                    "gross": 600
+                    "gross": 800
                 },
                 "CIAO UFO_2026-03-23_GALA CINEMA (Langham Place)_House 6": {
                     "id": "CIAO UFO_2026-03-23_GALA CINEMA (Langham Place)_House 6",
@@ -49073,10 +49073,10 @@
                     "date": "2026-03-23",
                     "site": "KWAI FONG",
                     "house": "House 1",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 82,
                     "price": 95,
-                    "gross": 0
+                    "gross": 190
                 },
                 "CIAO UFO_2026-03-23_KINGSWOOD_House 2": {
                     "id": "CIAO UFO_2026-03-23_KINGSWOOD_House 2",
@@ -49172,10 +49172,10 @@
                     "date": "2026-03-24",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 3",
-                    "sold": 1,
+                    "sold": 3,
                     "seats": 160,
                     "price": 85,
-                    "gross": 85
+                    "gross": 255
                 },
                 "CIAO UFO_2026-03-24_MOViE MOViE Cityplaza (Taikoo Shing)_House 2": {
                     "id": "CIAO UFO_2026-03-24_MOViE MOViE Cityplaza (Taikoo Shing)_House 2",
@@ -49183,10 +49183,10 @@
                     "date": "2026-03-24",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 2",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 119,
                     "price": 85,
-                    "gross": 0
+                    "gross": 170
                 },
                 "CIAO UFO_2026-03-24_B+ cinema apm (Kwun Tong)_House 3": {
                     "id": "CIAO UFO_2026-03-24_B+ cinema apm (Kwun Tong)_House 3",
@@ -49194,10 +49194,10 @@
                     "date": "2026-03-24",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 3",
-                    "sold": 3,
+                    "sold": 4,
                     "seats": 171,
                     "price": 60,
-                    "gross": 180
+                    "gross": 240
                 },
                 "CIAO UFO_2026-03-24_KWAI FONG_House 4": {
                     "id": "CIAO UFO_2026-03-24_KWAI FONG_House 4",
@@ -49205,10 +49205,10 @@
                     "date": "2026-03-24",
                     "site": "KWAI FONG",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 93,
                     "price": 60,
-                    "gross": 0
+                    "gross": 60
                 },
                 "CIAO UFO_2026-03-24_PREMIERE ELEMENTS_House 3": {
                     "id": "CIAO UFO_2026-03-24_PREMIERE ELEMENTS_House 3",
@@ -49227,10 +49227,10 @@
                     "date": "2026-03-24",
                     "site": "TSUEN WAN",
                     "house": "House 3",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 192,
                     "price": 60,
-                    "gross": 0
+                    "gross": 60
                 },
                 "CIAO UFO_2026-03-24_KINGSWOOD_House 1": {
                     "id": "CIAO UFO_2026-03-24_KINGSWOOD_House 1",
@@ -49392,10 +49392,10 @@
                     "date": "2026-03-24",
                     "site": "TSUEN WAN",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 96,
                     "price": 85,
-                    "gross": 0
+                    "gross": 85
                 },
                 "CIAO UFO_2026-03-24_PALACE ifc_House 3": {
                     "id": "CIAO UFO_2026-03-24_PALACE ifc_House 3",
@@ -49436,10 +49436,10 @@
                     "date": "2026-03-25",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 3",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 171,
                     "price": 60,
-                    "gross": 0
+                    "gross": 60
                 },
                 "CIAO UFO_2026-03-25_GALA CINEMA (Langham Place)_House 2": {
                     "id": "CIAO UFO_2026-03-25_GALA CINEMA (Langham Place)_House 2",
@@ -49469,10 +49469,10 @@
                     "date": "2026-03-25",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 3",
-                    "sold": 1,
+                    "sold": 3,
                     "seats": 129,
                     "price": 60,
-                    "gross": 60
+                    "gross": 180
                 },
                 "CIAO UFO_2026-03-25_TSUEN WAN_House 3": {
                     "id": "CIAO UFO_2026-03-25_TSUEN WAN_House 3",
@@ -49766,10 +49766,10 @@
                     "date": "2026-03-24",
                     "site": "CINEMATHEQUE",
                     "house": "House 3",
-                    "sold": 3,
+                    "sold": 5,
                     "seats": 119,
                     "price": 75,
-                    "gross": 225
+                    "gross": 375
                 },
                 "CIAO UFO_2026-03-25_CINEMATHEQUE_House 3": {
                     "id": "CIAO UFO_2026-03-25_CINEMATHEQUE_House 3",
@@ -49788,10 +49788,10 @@
                     "date": "2026-03-25",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 119,
                     "price": 95,
-                    "gross": 0
+                    "gross": 190
                 }
             },
             "dates": {
@@ -49821,28 +49821,28 @@
                 },
                 "2026-03-23": {
                     "shows": 26,
-                    "sold": 44,
+                    "sold": 52,
                     "seats": 3466,
-                    "gross": 3750
+                    "gross": 4525
                 },
                 "2026-03-24": {
                     "shows": 26,
-                    "sold": 18,
+                    "sold": 28,
                     "seats": 3448,
-                    "gross": 1430
+                    "gross": 2185
                 },
                 "2026-03-25": {
                     "shows": 29,
-                    "sold": 4,
+                    "sold": 9,
                     "seats": 3794,
-                    "gross": 355
+                    "gross": 725
                 }
             },
             "total": {
                 "shows": 201,
-                "sold": 522,
+                "sold": 545,
                 "seats": 25373,
-                "gross": 45890
+                "gross": 47790
             }
         },
         "IMAX Project Hail Mary": {
@@ -49996,10 +49996,10 @@
                     "date": "2026-03-25",
                     "site": "B+ cinema MOKO (Mong Kok East)",
                     "house": "House 5",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 268,
                     "price": 180,
-                    "gross": 0
+                    "gross": 360
                 }
             },
             "dates": {
@@ -50041,16 +50041,16 @@
                 },
                 "2026-03-25": {
                     "shows": 2,
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 681,
-                    "gross": 0
+                    "gross": 360
                 }
             },
             "total": {
                 "shows": 14,
-                "sold": 205,
+                "sold": 207,
                 "seats": 4767,
-                "gross": 36695
+                "gross": 37055
             }
         },
         "Project Hail Mary": {
@@ -50998,7 +50998,7 @@
                     "house": "House 5",
                     "sold": 0,
                     "seats": 23,
-                    "price": 110,
+                    "price": 130,
                     "gross": 0
                 },
                 "Project Hail Mary_2026-03-23_KINGSWOOD_House 3": {
@@ -51029,10 +51029,10 @@
                     "date": "2026-03-23",
                     "site": "PALACE ifc",
                     "house": "House 1",
-                    "sold": 0,
+                    "sold": 3,
                     "seats": 88,
                     "price": 150,
-                    "gross": 0
+                    "gross": 450
                 },
                 "Project Hail Mary_2026-03-23_MOViE MOViE Pacific Place (Admiralty)_MM Plus": {
                     "id": "Project Hail Mary_2026-03-23_MOViE MOViE Pacific Place (Admiralty)_MM Plus",
@@ -51117,10 +51117,10 @@
                     "date": "2026-03-24",
                     "site": "KINGSWOOD",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 215,
                     "price": 80,
-                    "gross": 0
+                    "gross": 80
                 },
                 "Project Hail Mary_2026-03-24_TSUEN WAN_House 1": {
                     "id": "Project Hail Mary_2026-03-24_TSUEN WAN_House 1",
@@ -51139,10 +51139,10 @@
                     "date": "2026-03-24",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "House 3",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 115,
                     "price": 105,
-                    "gross": 0
+                    "gross": 105
                 },
                 "Project Hail Mary_2026-03-24_MONGKOK_House 2": {
                     "id": "Project Hail Mary_2026-03-24_MONGKOK_House 2",
@@ -51161,10 +51161,10 @@
                     "date": "2026-03-24",
                     "site": "PALACE ifc",
                     "house": "House 5",
-                    "sold": 4,
+                    "sold": 8,
                     "seats": 185,
                     "price": 130,
-                    "gross": 520
+                    "gross": 1040
                 },
                 "Project Hail Mary_2026-03-24_PREMIERE ELEMENTS_House 5": {
                     "id": "Project Hail Mary_2026-03-24_PREMIERE ELEMENTS_House 5",
@@ -51174,7 +51174,7 @@
                     "house": "House 5",
                     "sold": 0,
                     "seats": 23,
-                    "price": 110,
+                    "price": 130,
                     "gross": 0
                 },
                 "Project Hail Mary_2026-03-24_KINGSWOOD_House 3": {
@@ -51216,10 +51216,10 @@
                     "date": "2026-03-24",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "MM Plus",
-                    "sold": 2,
+                    "sold": 4,
                     "seats": 146,
                     "price": 130,
-                    "gross": 260
+                    "gross": 520
                 },
                 "Project Hail Mary_2026-03-24_KWAI FONG_House 2": {
                     "id": "Project Hail Mary_2026-03-24_KWAI FONG_House 2",
@@ -51282,10 +51282,10 @@
                     "date": "2026-03-25",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "MOViEMAXX",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 273,
                     "price": 120,
-                    "gross": 0
+                    "gross": 240
                 },
                 "Project Hail Mary_2026-03-25_KWAI FONG_House 3": {
                     "id": "Project Hail Mary_2026-03-25_KWAI FONG_House 3",
@@ -51361,7 +51361,7 @@
                     "house": "House 5",
                     "sold": 0,
                     "seats": 23,
-                    "price": 110,
+                    "price": 130,
                     "gross": 0
                 },
                 "Project Hail Mary_2026-03-25_KINGSWOOD_House 3": {
@@ -51403,10 +51403,10 @@
                     "date": "2026-03-25",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "MM Plus",
-                    "sold": 0,
+                    "sold": 3,
                     "seats": 146,
                     "price": 150,
-                    "gross": 0
+                    "gross": 450
                 },
                 "Project Hail Mary_2026-03-25_KWAI FONG_House 2": {
                     "id": "Project Hail Mary_2026-03-25_KWAI FONG_House 2",
@@ -51480,28 +51480,28 @@
                 },
                 "2026-03-23": {
                     "shows": 16,
-                    "sold": 44,
+                    "sold": 47,
                     "seats": 2660,
-                    "gross": 5630
+                    "gross": 6080
                 },
                 "2026-03-24": {
                     "shows": 17,
-                    "sold": 10,
+                    "sold": 18,
                     "seats": 2726,
-                    "gross": 1250
+                    "gross": 2215
                 },
                 "2026-03-25": {
                     "shows": 16,
-                    "sold": 2,
+                    "sold": 7,
                     "seats": 2662,
-                    "gross": 300
+                    "gross": 990
                 }
             },
             "total": {
                 "shows": 127,
-                "sold": 637,
+                "sold": 653,
                 "seats": 21937,
-                "gross": 76235
+                "gross": 78340
             }
         },
         "CINITY LED Project Hail Mary": {
@@ -52884,10 +52884,10 @@
                     "date": "2026-03-25",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 8",
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 147,
                     "price": 75,
-                    "gross": 0
+                    "gross": 75
                 },
                 "Kyojo Reunion_2026-03-25_PREMIERE ELEMENTS_House 10": {
                     "id": "Kyojo Reunion_2026-03-25_PREMIERE ELEMENTS_House 10",
@@ -52973,16 +52973,16 @@
                 },
                 "2026-03-25": {
                     "shows": 5,
-                    "sold": 0,
+                    "sold": 1,
                     "seats": 395,
-                    "gross": 0
+                    "gross": 75
                 }
             },
             "total": {
                 "shows": 32,
-                "sold": 65,
+                "sold": 66,
                 "seats": 2693,
-                "gross": 6340
+                "gross": 6415
             }
         },
         "Project Hail Mary(Atmos)": {
@@ -53138,7 +53138,7 @@
                     "house": "THX",
                     "sold": 0,
                     "seats": 261,
-                    "price": 110,
+                    "price": 130,
                     "gross": 0
                 },
                 "Project Hail Mary(Atmos)_2026-03-23_MOViE MOViE Cityplaza (Taikoo Shing)_House 5": {
@@ -53182,7 +53182,7 @@
                     "house": "THX",
                     "sold": 0,
                     "seats": 261,
-                    "price": 90,
+                    "price": 110,
                     "gross": 0
                 },
                 "Project Hail Mary(Atmos)_2026-03-24_MOViE MOViE Cityplaza (Taikoo Shing)_House 5": {
@@ -53226,7 +53226,7 @@
                     "house": "THX",
                     "sold": 0,
                     "seats": 261,
-                    "price": 110,
+                    "price": 130,
                     "gross": 0
                 },
                 "Project Hail Mary(Atmos)_2026-03-25_MOViE MOViE Cityplaza (Taikoo Shing)_House 5": {
@@ -53416,25 +53416,25 @@
                     "date": "2026-08-26",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 4,
+                    "sold": 5,
                     "seats": 119,
                     "price": 95,
-                    "gross": 380
+                    "gross": 475
                 }
             },
             "dates": {
                 "2026-08-26": {
                     "shows": 1,
-                    "sold": 4,
+                    "sold": 5,
                     "seats": 119,
-                    "gross": 380
+                    "gross": 475
                 }
             },
             "total": {
                 "shows": 1,
-                "sold": 4,
+                "sold": 5,
                 "seats": 119,
-                "gross": 380
+                "gross": 475
             }
         },
         "Night King 3.21 Special Screening": {
@@ -53584,25 +53584,25 @@
                     "date": "2026-04-04",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 4",
-                    "sold": 29,
+                    "sold": 32,
                     "seats": 103,
                     "price": 330,
-                    "gross": 9570
+                    "gross": 10560
                 }
             },
             "dates": {
                 "2026-04-04": {
                     "shows": 8,
-                    "sold": 1013,
+                    "sold": 1016,
                     "seats": 1674,
-                    "gross": 334290
+                    "gross": 335280
                 }
             },
             "total": {
                 "shows": 8,
-                "sold": 1013,
+                "sold": 1016,
                 "seats": 1674,
-                "gross": 334290
+                "gross": 335280
             }
         },
         "Marty Supreme Special Screening": {
@@ -53714,10 +53714,10 @@
                     "date": "2026-03-27",
                     "site": "CINEMATHEQUE",
                     "house": "House 3",
-                    "sold": 4,
+                    "sold": 5,
                     "seats": 119,
                     "price": 125,
-                    "gross": 500
+                    "gross": 625
                 },
                 "The Secret Agent_2026-03-28_CINEMATHEQUE_House 2": {
                     "id": "The Secret Agent_2026-03-28_CINEMATHEQUE_House 2",
@@ -53763,9 +53763,9 @@
                 },
                 "2026-03-27": {
                     "shows": 2,
-                    "sold": 4,
+                    "sold": 5,
                     "seats": 238,
-                    "gross": 500
+                    "gross": 625
                 },
                 "2026-03-28": {
                     "shows": 1,
@@ -53782,9 +53782,112 @@
             },
             "total": {
                 "shows": 8,
-                "sold": 90,
+                "sold": 91,
                 "seats": 952,
-                "gross": 11250
+                "gross": 11375
+            }
+        },
+        "AOT: THE LAST ATTACK Eren’s Birthday Screening": {
+            "shows": {
+                "AOT: THE LAST ATTACK Eren’s Birthday Screening_2026-03-29_PREMIERE ELEMENTS_House 7": {
+                    "id": "AOT: THE LAST ATTACK Eren’s Birthday Screening_2026-03-29_PREMIERE ELEMENTS_House 7",
+                    "movie": "AOT: THE LAST ATTACK Eren’s Birthday Screening",
+                    "date": "2026-03-29",
+                    "site": "PREMIERE ELEMENTS",
+                    "house": "House 7",
+                    "sold": 24,
+                    "seats": 147,
+                    "price": 175,
+                    "gross": 4200
+                },
+                "AOT: THE LAST ATTACK Eren’s Birthday Screening_2026-03-29_GALA CINEMA (Langham Place)_House 3": {
+                    "id": "AOT: THE LAST ATTACK Eren’s Birthday Screening_2026-03-29_GALA CINEMA (Langham Place)_House 3",
+                    "movie": "AOT: THE LAST ATTACK Eren’s Birthday Screening",
+                    "date": "2026-03-29",
+                    "site": "GALA CINEMA (Langham Place)",
+                    "house": "House 3",
+                    "sold": 63,
+                    "seats": 191,
+                    "price": 175,
+                    "gross": 11025
+                },
+                "AOT: THE LAST ATTACK Eren’s Birthday Screening_2026-03-30_MOViE MOViE Cityplaza (Taikoo Shing)_House 1": {
+                    "id": "AOT: THE LAST ATTACK Eren’s Birthday Screening_2026-03-30_MOViE MOViE Cityplaza (Taikoo Shing)_House 1",
+                    "movie": "AOT: THE LAST ATTACK Eren’s Birthday Screening",
+                    "date": "2026-03-30",
+                    "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
+                    "house": "House 1",
+                    "sold": 48,
+                    "seats": 156,
+                    "price": 175,
+                    "gross": 8400
+                }
+            },
+            "dates": {
+                "2026-03-29": {
+                    "shows": 2,
+                    "sold": 87,
+                    "seats": 338,
+                    "gross": 15225
+                },
+                "2026-03-30": {
+                    "shows": 1,
+                    "sold": 48,
+                    "seats": 156,
+                    "gross": 8400
+                }
+            },
+            "total": {
+                "shows": 3,
+                "sold": 135,
+                "seats": 494,
+                "gross": 23625
+            }
+        },
+        "Power To The People: John \\u0026 Yoko Live in NYC (2026)": {
+            "shows": {
+                "Power To The People: John \\u0026 Yoko Live in NYC (2026)_2026-04-29_PREMIERE ELEMENTS_House 2": {
+                    "id": "Power To The People: John \\u0026 Yoko Live in NYC (2026)_2026-04-29_PREMIERE ELEMENTS_House 2",
+                    "movie": "Power To The People: John \\u0026 Yoko Live in NYC (2026)",
+                    "date": "2026-04-29",
+                    "site": "PREMIERE ELEMENTS",
+                    "house": "House 2",
+                    "sold": 0,
+                    "seats": 144,
+                    "price": 130,
+                    "gross": 0
+                },
+                "Power To The People: John \\u0026 Yoko Live in NYC (2026)_2026-05-03_PREMIERE ELEMENTS_House 9": {
+                    "id": "Power To The People: John \\u0026 Yoko Live in NYC (2026)_2026-05-03_PREMIERE ELEMENTS_House 9",
+                    "movie": "Power To The People: John \\u0026 Yoko Live in NYC (2026)",
+                    "date": "2026-05-03",
+                    "site": "PREMIERE ELEMENTS",
+                    "house": "House 9",
+                    "sold": 0,
+                    "seats": 127,
+                    "price": 130,
+                    "gross": 0
+                }
+            },
+            "dates": {
+                "2026-04-29": {
+                    "shows": 1,
+                    "sold": 0,
+                    "seats": 144,
+                    "gross": 0
+                },
+                "2026-05-03": {
+                    "shows": 1,
+                    "sold": 0,
+                    "seats": 127,
+                    "gross": 0
+                }
+            },
+            "total": {
+                "shows": 2,
+                "sold": 0,
+                "seats": 271,
+                "gross": 0
             }
         }
     }
