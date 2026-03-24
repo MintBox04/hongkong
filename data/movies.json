@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-24 06:45:27 IST",
+    "last_updated": "2026-03-24 10:18:17 IST",
     "movies": {
         "Love after Love(bcSunday)": {
             "shows": {
@@ -47564,10 +47564,10 @@
                     "date": "2026-03-24",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 65,
+                    "sold": 67,
                     "seats": 119,
                     "price": 75,
-                    "gross": 4875
+                    "gross": 5025
                 },
                 "The Worst Person In The World_2026-03-11_CINEMATHEQUE_House 1": {
                     "id": "The Worst Person In The World_2026-03-11_CINEMATHEQUE_House 1",
@@ -47640,9 +47640,9 @@
                 },
                 "2026-03-24": {
                     "shows": 1,
-                    "sold": 65,
+                    "sold": 67,
                     "seats": 119,
-                    "gross": 4875
+                    "gross": 5025
                 },
                 "2026-03-11": {
                     "shows": 1,
@@ -47677,9 +47677,9 @@
             },
             "total": {
                 "shows": 8,
-                "sold": 310,
+                "sold": 312,
                 "seats": 952,
-                "gross": 27450
+                "gross": 27600
             },
             "image": "https://media.grabticks.com/programNj_0acfb3d8-a52d-4e44-a640-7d50fdf0789a_.jpg"
         },
