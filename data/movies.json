@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-25 02:59:56 IST",
+    "last_updated": "2026-03-25 06:50:13 IST",
     "movies": {
         "Love after Love(bcSunday)": {
             "shows": {
@@ -23716,10 +23716,10 @@
                     "date": "2026-03-25",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 7",
-                    "sold": 0,
+                    "sold": 2,
                     "seats": 93,
                     "price": 100,
-                    "gross": 0
+                    "gross": 200
                 },
                 "HAMNET_2026-03-25_PREMIERE ELEMENTS_House 9": {
                     "id": "HAMNET_2026-03-25_PREMIERE ELEMENTS_House 9",
@@ -24199,9 +24199,9 @@
                 },
                 "2026-03-25": {
                     "shows": 13,
-                    "sold": 34,
+                    "sold": 36,
                     "seats": 1177,
-                    "gross": 3595
+                    "gross": 3795
                 },
                 "2026-03-26": {
                     "shows": 13,
@@ -24218,9 +24218,9 @@
             },
             "total": {
                 "shows": 225,
-                "sold": 1569,
+                "sold": 1571,
                 "seats": 23265,
-                "gross": 156740
+                "gross": 156940
             },
             "image": "https://media.grabticks.com/programyk_346d6e28-4d7f-44b9-bbe4-fc6952eee2cd_.jpg"
         },
@@ -49581,10 +49581,10 @@
                     "date": "2026-04-26",
                     "site": "PREMIERE ELEMENTS",
                     "house": "THX",
-                    "sold": 80,
+                    "sold": 81,
                     "seats": 261,
                     "price": 420,
-                    "gross": 33600
+                    "gross": 34020
                 }
             },
             "dates": {
@@ -49620,16 +49620,16 @@
                 },
                 "2026-04-26": {
                     "shows": 1,
-                    "sold": 80,
+                    "sold": 81,
                     "seats": 261,
-                    "gross": 33600
+                    "gross": 34020
                 }
             },
             "total": {
                 "shows": 6,
-                "sold": 715,
+                "sold": 716,
                 "seats": 1260,
-                "gross": 300300
+                "gross": 300720
             },
             "image": "https://media.grabticks.com/programml_29b939d5-9c67-4ce7-a9e9-0d2a53de6372_.jpg"
         },
@@ -50733,10 +50733,10 @@
                     "date": "2026-04-12",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 5",
-                    "sold": 93,
+                    "sold": 95,
                     "seats": 160,
                     "price": 360,
-                    "gross": 33480
+                    "gross": 34200
                 }
             },
             "dates": {
@@ -50748,16 +50748,16 @@
                 },
                 "2026-04-12": {
                     "shows": 6,
-                    "sold": 438,
+                    "sold": 440,
                     "seats": 965,
-                    "gross": 157680
+                    "gross": 158400
                 }
             },
             "total": {
                 "shows": 16,
-                "sold": 1918,
+                "sold": 1920,
                 "seats": 2962,
-                "gross": 690480
+                "gross": 691200
             },
             "image": "https://media.grabticks.com/programOl_4574b6b0-f3ac-439d-b5c1-5a456ae02725_.jpg"
         },
