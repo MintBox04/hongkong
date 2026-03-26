@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-26 03:00:17 IST",
+    "last_updated": "2026-03-26 06:55:45 IST",
     "movies": {
         "Love after Love(bcSunday)": {
             "shows": {
@@ -30107,10 +30107,10 @@
                     "date": "2026-03-26",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 4,
                     "seats": 103,
                     "price": 100,
-                    "gross": 0
+                    "gross": 400
                 },
                 "Girlfriends_2026-03-27_MY CINEMA YOHO MALL_House 4": {
                     "id": "Girlfriends_2026-03-27_MY CINEMA YOHO MALL_House 4",
@@ -30234,9 +30234,9 @@
                 },
                 "2026-03-26": {
                     "shows": 2,
-                    "sold": 3,
+                    "sold": 7,
                     "seats": 259,
-                    "gross": 180
+                    "gross": 580
                 },
                 "2026-03-27": {
                     "shows": 2,
@@ -30247,9 +30247,9 @@
             },
             "total": {
                 "shows": 122,
-                "sold": 377,
+                "sold": 381,
                 "seats": 15841,
-                "gross": 33480
+                "gross": 33880
             },
             "image": "https://media.grabticks.com/programmm_a349edb2-20cc-4961-966e-92bd190e5ab2_.jpg"
         },
@@ -43516,10 +43516,10 @@
                     "date": "2026-03-26",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 5",
-                    "sold": 2,
+                    "sold": 4,
                     "seats": 23,
                     "price": 155,
-                    "gross": 310
+                    "gross": 620
                 },
                 "Kokuho_2026-03-27_PREMIERE ELEMENTS_House 5": {
                     "id": "Kokuho_2026-03-27_PREMIERE ELEMENTS_House 5",
@@ -43643,9 +43643,9 @@
                 },
                 "2026-03-26": {
                     "shows": 2,
-                    "sold": 4,
+                    "sold": 6,
                     "seats": 142,
-                    "gross": 600
+                    "gross": 910
                 },
                 "2026-03-27": {
                     "shows": 2,
@@ -43656,9 +43656,9 @@
             },
             "total": {
                 "shows": 27,
-                "sold": 79,
+                "sold": 81,
                 "seats": 2445,
-                "gross": 11415
+                "gross": 11725
             },
             "image": "https://media.grabticks.com/programFc_06c3fdbd-48f6-4f2a-a5c0-fc70d64e5919_.jpg"
         },
@@ -48846,10 +48846,10 @@
                     "date": "2026-04-08",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 47,
+                    "sold": 48,
                     "seats": 119,
                     "price": 95,
-                    "gross": 4465
+                    "gross": 4560
                 },
                 "Portrait of a Lady on Fire_2026-04-11_PALACE ifc_House 1": {
                     "id": "Portrait of a Lady on Fire_2026-04-11_PALACE ifc_House 1",
@@ -48987,9 +48987,9 @@
                 },
                 "2026-04-08": {
                     "shows": 2,
-                    "sold": 62,
+                    "sold": 63,
                     "seats": 213,
-                    "gross": 6415
+                    "gross": 6510
                 },
                 "2026-04-11": {
                     "shows": 1,
@@ -49024,9 +49024,9 @@
             },
             "total": {
                 "shows": 18,
-                "sold": 1159,
+                "sold": 1160,
                 "seats": 2011,
-                "gross": 115495
+                "gross": 115590
             },
             "image": "https://media.grabticks.com/programFl_d10f5b21-83f5-414a-9d8c-81b008a6a2a5_.jpg"
         },
@@ -51061,10 +51061,10 @@
                     "date": "2026-04-11",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "House 5",
-                    "sold": 83,
+                    "sold": 85,
                     "seats": 113,
                     "price": 360,
-                    "gross": 29880
+                    "gross": 30600
                 },
                 "BTS WORLD TOUR ‘ARIRANG’ IN GOYANG: LIVE VIEWING_2026-04-11_GALA CINEMA (Langham Place)_House 6": {
                     "id": "BTS WORLD TOUR ‘ARIRANG’ IN GOYANG: LIVE VIEWING_2026-04-11_GALA CINEMA (Langham Place)_House 6",
@@ -51138,10 +51138,10 @@
                     "date": "2026-04-12",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 5",
-                    "sold": 65,
+                    "sold": 67,
                     "seats": 202,
                     "price": 360,
-                    "gross": 23400
+                    "gross": 24120
                 },
                 "BTS WORLD TOUR ‘ARIRANG’ IN GOYANG: LIVE VIEWING_2026-04-12_MY CINEMA YOHO MALL_House 5": {
                     "id": "BTS WORLD TOUR ‘ARIRANG’ IN GOYANG: LIVE VIEWING_2026-04-12_MY CINEMA YOHO MALL_House 5",
@@ -51158,22 +51158,22 @@
             "dates": {
                 "2026-04-11": {
                     "shows": 10,
-                    "sold": 1490,
+                    "sold": 1492,
                     "seats": 1997,
-                    "gross": 536400
+                    "gross": 537120
                 },
                 "2026-04-12": {
                     "shows": 6,
-                    "sold": 459,
+                    "sold": 461,
                     "seats": 965,
-                    "gross": 165240
+                    "gross": 165960
                 }
             },
             "total": {
                 "shows": 16,
-                "sold": 1949,
+                "sold": 1953,
                 "seats": 2962,
-                "gross": 701640
+                "gross": 703080
             },
             "image": "https://media.grabticks.com/programOl_4574b6b0-f3ac-439d-b5c1-5a456ae02725_.jpg"
         },
@@ -59534,10 +59534,10 @@
                     "date": "2026-03-29",
                     "site": "PREMIERE ELEMENTS",
                     "house": "THX",
-                    "sold": 71,
+                    "sold": 72,
                     "seats": 261,
                     "price": 480,
-                    "gross": 34080
+                    "gross": 34560
                 }
             },
             "dates": {
@@ -59549,16 +59549,16 @@
                 },
                 "2026-03-29": {
                     "shows": 1,
-                    "sold": 71,
+                    "sold": 72,
                     "seats": 261,
-                    "gross": 34080
+                    "gross": 34560
                 }
             },
             "total": {
                 "shows": 2,
-                "sold": 134,
+                "sold": 135,
                 "seats": 380,
-                "gross": 64320
+                "gross": 64800
             }
         },
         "The Secret Agent": {
@@ -59826,10 +59826,10 @@
                     "date": "2026-03-29",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 3",
-                    "sold": 119,
+                    "sold": 120,
                     "seats": 191,
                     "price": 175,
-                    "gross": 20825
+                    "gross": 21000
                 },
                 "AOT: THE LAST ATTACK Eren’s Birthday Screening_2026-03-30_MOViE MOViE Cityplaza (Taikoo Shing)_House 1": {
                     "id": "AOT: THE LAST ATTACK Eren’s Birthday Screening_2026-03-30_MOViE MOViE Cityplaza (Taikoo Shing)_House 1",
@@ -59846,9 +59846,9 @@
             "dates": {
                 "2026-03-29": {
                     "shows": 2,
-                    "sold": 167,
+                    "sold": 168,
                     "seats": 338,
-                    "gross": 29225
+                    "gross": 29400
                 },
                 "2026-03-30": {
                     "shows": 1,
@@ -59859,9 +59859,9 @@
             },
             "total": {
                 "shows": 3,
-                "sold": 255,
+                "sold": 256,
                 "seats": 494,
-                "gross": 44625
+                "gross": 44800
             }
         },
         "Power To The People: John \\u0026 Yoko Live in NYC (2026)": {
