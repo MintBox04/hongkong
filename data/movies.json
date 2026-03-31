@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-31 03:04:33 IST",
+    "last_updated": "2026-03-31 06:57:09 IST",
     "movies": {
         "Love after Love(bcSunday)": {
             "shows": {
@@ -61681,10 +61681,10 @@
                     "date": "2026-04-01",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 8",
-                    "sold": 36,
+                    "sold": 37,
                     "seats": 147,
                     "price": 250,
-                    "gross": 9000
+                    "gross": 9250
                 },
                 "Dhurandhar: The Revenge_2026-04-02_PREMIERE ELEMENTS_House 9": {
                     "id": "Dhurandhar: The Revenge_2026-04-02_PREMIERE ELEMENTS_House 9",
@@ -61784,9 +61784,9 @@
                 },
                 "2026-04-01": {
                     "shows": 2,
-                    "sold": 58,
+                    "sold": 59,
                     "seats": 283,
-                    "gross": 14500
+                    "gross": 14750
                 },
                 "2026-04-02": {
                     "shows": 1,
@@ -61803,9 +61803,9 @@
             },
             "total": {
                 "shows": 29,
-                "sold": 3486,
+                "sold": 3487,
                 "seats": 6994,
-                "gross": 871500
+                "gross": 871750
             },
             "image": "https://media.grabticks.com/programYm_2a5da8bb-2f78-483b-977d-da0cecebf6b7_.jpg"
         },
@@ -81493,10 +81493,10 @@
                     "date": "2026-04-01",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 6",
-                    "sold": 16,
+                    "sold": 18,
                     "seats": 52,
                     "price": 170,
-                    "gross": 2720
+                    "gross": 3060
                 },
                 "4DX The Super Mario Galaxy Movie(English Version) _2026-04-02_B+ cinema apm (Kwun Tong)_House 6": {
                     "id": "4DX The Super Mario Galaxy Movie(English Version) _2026-04-02_B+ cinema apm (Kwun Tong)_House 6",
@@ -81557,9 +81557,9 @@
             "dates": {
                 "2026-04-01": {
                     "shows": 2,
-                    "sold": 19,
+                    "sold": 21,
                     "seats": 173,
-                    "gross": 3230
+                    "gross": 3570
                 },
                 "2026-04-02": {
                     "shows": 2,
@@ -81576,9 +81576,9 @@
             },
             "total": {
                 "shows": 6,
-                "sold": 19,
+                "sold": 21,
                 "seats": 519,
-                "gross": 3230
+                "gross": 3570
             }
         },
         "4DX The Super Mario Galaxy Movie(Cantonese Version) ": {
