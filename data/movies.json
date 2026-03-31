@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-31 06:57:09 IST",
+    "last_updated": "2026-03-31 10:33:55 IST",
     "movies": {
         "Love after Love(bcSunday)": {
             "shows": {
@@ -10197,10 +10197,10 @@
                     "date": "2026-03-31",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 5",
-                    "sold": 27,
+                    "sold": 28,
                     "seats": 160,
                     "price": 60,
-                    "gross": 1620
+                    "gross": 1680
                 },
                 "Night King_2026-03-31_MOViE MOViE Cityplaza (Taikoo Shing)_House 2": {
                     "id": "Night King_2026-03-31_MOViE MOViE Cityplaza (Taikoo Shing)_House 2",
@@ -11856,9 +11856,9 @@
                 },
                 "2026-03-31": {
                     "shows": 39,
-                    "sold": 92,
+                    "sold": 93,
                     "seats": 5785,
-                    "gross": 6435
+                    "gross": 6495
                 },
                 "2026-04-01": {
                     "shows": 30,
@@ -11881,9 +11881,9 @@
             },
             "total": {
                 "shows": 1058,
-                "sold": 4086,
+                "sold": 4087,
                 "seats": 156211,
-                "gross": 376545
+                "gross": 376605
             },
             "image": "https://media.grabticks.com/programTj_657c812a-9048-45af-a198-1cce8783e50a_.jpg"
         },
@@ -38033,10 +38033,10 @@
                     "date": "2026-03-31",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 4",
-                    "sold": 2,
+                    "sold": 3,
                     "seats": 103,
                     "price": 85,
-                    "gross": 170
+                    "gross": 255
                 },
                 "Girlfriends_2026-04-02_MY CINEMA YOHO MALL_House 4": {
                     "id": "Girlfriends_2026-04-02_MY CINEMA YOHO MALL_House 4",
@@ -38179,9 +38179,9 @@
                 },
                 "2026-03-31": {
                     "shows": 2,
-                    "sold": 6,
+                    "sold": 7,
                     "seats": 220,
-                    "gross": 410
+                    "gross": 495
                 },
                 "2026-04-02": {
                     "shows": 1,
@@ -38192,9 +38192,9 @@
             },
             "total": {
                 "shows": 129,
-                "sold": 396,
+                "sold": 397,
                 "seats": 16600,
-                "gross": 35110
+                "gross": 35195
             },
             "image": "https://media.grabticks.com/programmm_a349edb2-20cc-4961-966e-92bd190e5ab2_.jpg"
         },
@@ -47052,10 +47052,10 @@
                     "date": "2026-03-31",
                     "site": "MOViE MOViE Pacific Place (Admiralty)",
                     "house": "House 4",
-                    "sold": 0,
+                    "sold": 3,
                     "seats": 81,
                     "price": 85,
-                    "gross": 0
+                    "gross": 255
                 },
                 "Tokyo Taxi_2026-03-31_PALACE ifc_House 3": {
                     "id": "Tokyo Taxi_2026-03-31_PALACE ifc_House 3",
@@ -47407,9 +47407,9 @@
                 },
                 "2026-03-31": {
                     "shows": 10,
-                    "sold": 25,
+                    "sold": 28,
                     "seats": 1151,
-                    "gross": 1500
+                    "gross": 1755
                 },
                 "2026-04-01": {
                     "shows": 4,
@@ -47432,9 +47432,9 @@
             },
             "total": {
                 "shows": 240,
-                "sold": 773,
+                "sold": 776,
                 "seats": 28051,
-                "gross": 57150
+                "gross": 57405
             },
             "image": "https://media.grabticks.com/programol_cb6fecac-4e8c-46a3-aefa-e41adbbedfca_.jpg"
         },
@@ -60450,10 +60450,10 @@
                     "date": "2026-04-01",
                     "site": "PREMIERE ELEMENTS",
                     "house": "House 3",
-                    "sold": 3,
+                    "sold": 5,
                     "seats": 136,
                     "price": 110,
-                    "gross": 330
+                    "gross": 550
                 },
                 "SINNERS_2026-04-01_PREMIERE ELEMENTS_House 5": {
                     "id": "SINNERS_2026-04-01_PREMIERE ELEMENTS_House 5",
@@ -60588,9 +60588,9 @@
                 },
                 "2026-04-01": {
                     "shows": 2,
-                    "sold": 3,
+                    "sold": 5,
                     "seats": 159,
-                    "gross": 330
+                    "gross": 550
                 },
                 "2026-04-02": {
                     "shows": 1,
@@ -60607,9 +60607,9 @@
             },
             "total": {
                 "shows": 58,
-                "sold": 175,
+                "sold": 177,
                 "seats": 5590,
-                "gross": 19670
+                "gross": 19890
             },
             "image": "https://media.grabticks.com/programjn_5c2156ed-d080-4076-8dd8-e306203b7c22_.jpg"
         },
@@ -81589,10 +81589,10 @@
                     "date": "2026-04-01",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 6",
-                    "sold": 18,
+                    "sold": 22,
                     "seats": 52,
                     "price": 170,
-                    "gross": 3060
+                    "gross": 3740
                 },
                 "4DX The Super Mario Galaxy Movie(Cantonese Version) _2026-04-02_B+ cinema apm (Kwun Tong)_House 6": {
                     "id": "4DX The Super Mario Galaxy Movie(Cantonese Version) _2026-04-02_B+ cinema apm (Kwun Tong)_House 6",
@@ -81653,9 +81653,9 @@
             "dates": {
                 "2026-04-01": {
                     "shows": 2,
-                    "sold": 18,
+                    "sold": 22,
                     "seats": 173,
-                    "gross": 3060
+                    "gross": 3740
                 },
                 "2026-04-02": {
                     "shows": 2,
@@ -81672,9 +81672,9 @@
             },
             "total": {
                 "shows": 6,
-                "sold": 36,
+                "sold": 40,
                 "seats": 519,
-                "gross": 6120
+                "gross": 6800
             }
         },
         "CINITY LED The Super Mario Galaxy Movie(Cantonese Version) ": {
@@ -83041,10 +83041,10 @@
                     "date": "2026-04-03",
                     "site": "B+ cinema MOKO (Mong Kok East)",
                     "house": "House 1",
-                    "sold": 29,
+                    "sold": 30,
                     "seats": 116,
                     "price": 105,
-                    "gross": 3045
+                    "gross": 3150
                 },
                 "We're Nothing at All_2026-04-03_KWAI FONG_House 1": {
                     "id": "We're Nothing at All_2026-04-03_KWAI FONG_House 1",
@@ -83138,16 +83138,16 @@
             "dates": {
                 "2026-04-03": {
                     "shows": 18,
-                    "sold": 43,
+                    "sold": 44,
                     "seats": 2408,
-                    "gross": 4445
+                    "gross": 4550
                 }
             },
             "total": {
                 "shows": 18,
-                "sold": 43,
+                "sold": 44,
                 "seats": 2408,
-                "gross": 4445
+                "gross": 4550
             }
         },
         "The Dance Club (EUFF2026)": {
