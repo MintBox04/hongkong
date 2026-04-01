@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-01 07:17:47 IST",
+    "last_updated": "2026-04-01 10:46:57 IST",
     "movies": {
         "Love after Love(bcSunday)": {
             "shows": {
@@ -17537,10 +17537,10 @@
                     "date": "2026-04-02",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 6",
-                    "sold": 6,
+                    "sold": 4,
                     "seats": 191,
                     "price": 60,
-                    "gross": 360
+                    "gross": 240
                 },
                 "Hoppers(Cantonese Version)_2026-04-03_MONGKOK_House 2": {
                     "id": "Hoppers(Cantonese Version)_2026-04-03_MONGKOK_House 2",
@@ -17716,9 +17716,9 @@
                 },
                 "2026-04-02": {
                     "shows": 16,
-                    "sold": 37,
+                    "sold": 35,
                     "seats": 2158,
-                    "gross": 3075
+                    "gross": 2955
                 },
                 "2026-04-03": {
                     "shows": 16,
@@ -17729,9 +17729,9 @@
             },
             "total": {
                 "shows": 513,
-                "sold": 3628,
+                "sold": 3626,
                 "seats": 87674,
-                "gross": 338770
+                "gross": 338650
             },
             "image": "https://media.grabticks.com/programpl_0f736da1-2d72-435a-af16-49e1869fba27_.jpg"
         },
@@ -25338,10 +25338,10 @@
                     "date": "2026-04-03",
                     "site": "MY CINEMA YOHO MALL",
                     "house": "House 4",
-                    "sold": 2,
+                    "sold": 0,
                     "seats": 103,
                     "price": 100,
-                    "gross": 200
+                    "gross": 0
                 },
                 "Sunshine Women’s Choir_2026-04-02_PREMIERE ELEMENTS_House 4": {
                     "id": "Sunshine Women’s Choir_2026-04-02_PREMIERE ELEMENTS_House 4",
@@ -25530,16 +25530,16 @@
                 },
                 "2026-04-03": {
                     "shows": 3,
-                    "sold": 2,
+                    "sold": 0,
                     "seats": 269,
-                    "gross": 200
+                    "gross": 0
                 }
             },
             "total": {
                 "shows": 223,
-                "sold": 835,
+                "sold": 833,
                 "seats": 25694,
-                "gross": 69440
+                "gross": 69240
             },
             "image": "https://media.grabticks.com/programEk_bfabfd72-8c0f-4735-8874-c0e1652b6bdd_.jpg"
         },
@@ -82369,10 +82369,10 @@
                     "date": "2026-04-04",
                     "site": "B+ cinema apm (Kwun Tong)",
                     "house": "House 6",
-                    "sold": 2,
+                    "sold": 0,
                     "seats": 52,
                     "price": 170,
-                    "gross": 340
+                    "gross": 0
                 },
                 "4DX The Super Mario Galaxy Movie(Cantonese Version) _2026-04-05_B+ cinema apm (Kwun Tong)_House 6": {
                     "id": "4DX The Super Mario Galaxy Movie(Cantonese Version) _2026-04-05_B+ cinema apm (Kwun Tong)_House 6",
@@ -82429,9 +82429,9 @@
                 },
                 "2026-04-04": {
                     "shows": 1,
-                    "sold": 2,
+                    "sold": 0,
                     "seats": 52,
-                    "gross": 340
+                    "gross": 0
                 },
                 "2026-04-05": {
                     "shows": 1,
@@ -82454,9 +82454,9 @@
             },
             "total": {
                 "shows": 10,
-                "sold": 66,
+                "sold": 64,
                 "seats": 727,
-                "gross": 11220
+                "gross": 10880
             }
         },
         "CINITY LED The Super Mario Galaxy Movie(Cantonese Version) ": {
@@ -82816,10 +82816,10 @@
                     "date": "2026-04-02",
                     "site": "B+ cinema MOKO (Mong Kok East)",
                     "house": "House 5",
-                    "sold": 19,
+                    "sold": 18,
                     "seats": 268,
                     "price": 140,
-                    "gross": 2660
+                    "gross": 2520
                 },
                 "IMAX The Super Mario Galaxy Movie(Cantonese Version) _2026-04-03_B+ cinema MOKO (Mong Kok East)_House 5": {
                     "id": "IMAX The Super Mario Galaxy Movie(Cantonese Version) _2026-04-03_B+ cinema MOKO (Mong Kok East)_House 5",
@@ -82886,9 +82886,9 @@
                 },
                 "2026-04-02": {
                     "shows": 2,
-                    "sold": 61,
+                    "sold": 60,
                     "seats": 681,
-                    "gross": 8540
+                    "gross": 8400
                 },
                 "2026-04-03": {
                     "shows": 2,
@@ -82923,9 +82923,9 @@
             },
             "total": {
                 "shows": 12,
-                "sold": 166,
+                "sold": 165,
                 "seats": 4231,
-                "gross": 23240
+                "gross": 23100
             }
         },
         "Komada- A Whisky Family(bcSunday)": {
@@ -83159,10 +83159,10 @@
                     "date": "2026-04-02",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 5",
-                    "sold": 5,
+                    "sold": 2,
                     "seats": 202,
                     "price": 120,
-                    "gross": 600
+                    "gross": 240
                 },
                 "The Super Mario Galaxy Movie(English Version)(Atmos)_2026-04-01_B+ cinema MOKO (Mong Kok East)_House 4": {
                     "id": "The Super Mario Galaxy Movie(English Version)(Atmos)_2026-04-01_B+ cinema MOKO (Mong Kok East)_House 4",
@@ -83240,9 +83240,9 @@
                 },
                 "2026-04-02": {
                     "shows": 2,
-                    "sold": 13,
+                    "sold": 10,
                     "seats": 360,
-                    "gross": 1440
+                    "gross": 1080
                 },
                 "2026-04-03": {
                     "shows": 3,
@@ -83259,9 +83259,9 @@
             },
             "total": {
                 "shows": 9,
-                "sold": 37,
+                "sold": 34,
                 "seats": 1686,
-                "gross": 3880
+                "gross": 3520
             }
         },
         "IMAX The Super Mario Galaxy Movie(English Version) ": {
