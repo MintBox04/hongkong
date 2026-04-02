@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-02 06:54:09 IST",
+    "last_updated": "2026-04-02 10:27:10 IST",
     "movies": {
         "Love after Love(bcSunday)": {
             "shows": {
@@ -32048,10 +32048,10 @@
                     "date": "2026-04-03",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 2,
+                    "sold": 1,
                     "seats": 119,
                     "price": 60,
-                    "gross": 120
+                    "gross": 60
                 },
                 "HAMNET_2026-04-03_CINEMATHEQUE_House 4": {
                     "id": "HAMNET_2026-04-03_CINEMATHEQUE_House 4",
@@ -32194,9 +32194,9 @@
                 },
                 "2026-04-03": {
                     "shows": 7,
-                    "sold": 104,
+                    "sold": 103,
                     "seats": 602,
-                    "gross": 9915
+                    "gross": 9855
                 },
                 "2026-04-02": {
                     "shows": 10,
@@ -32207,9 +32207,9 @@
             },
             "total": {
                 "shows": 306,
-                "sold": 2075,
+                "sold": 2074,
                 "seats": 30337,
-                "gross": 208695
+                "gross": 208635
             },
             "image": "https://media.grabticks.com/programyk_346d6e28-4d7f-44b9-bbe4-fc6952eee2cd_.jpg"
         },
@@ -36186,10 +36186,10 @@
                     "date": "2026-04-02",
                     "site": "CINEMATHEQUE",
                     "house": "House 1",
-                    "sold": 16,
+                    "sold": 15,
                     "seats": 119,
                     "price": 95,
-                    "gross": 1520
+                    "gross": 1425
                 },
                 "The World Of Love_2026-04-03_CINEMATHEQUE_House 3": {
                     "id": "The World Of Love_2026-04-03_CINEMATHEQUE_House 3",
@@ -36197,10 +36197,10 @@
                     "date": "2026-04-03",
                     "site": "CINEMATHEQUE",
                     "house": "House 3",
-                    "sold": 11,
+                    "sold": 10,
                     "seats": 119,
                     "price": 60,
-                    "gross": 660
+                    "gross": 600
                 },
                 "The World Of Love_2026-04-03_CINEMATHEQUE_House 1": {
                     "id": "The World Of Love_2026-04-03_CINEMATHEQUE_House 1",
@@ -36361,22 +36361,22 @@
                 },
                 "2026-04-02": {
                     "shows": 1,
-                    "sold": 16,
+                    "sold": 15,
                     "seats": 119,
-                    "gross": 1520
+                    "gross": 1425
                 },
                 "2026-04-03": {
                     "shows": 2,
-                    "sold": 11,
+                    "sold": 10,
                     "seats": 238,
-                    "gross": 660
+                    "gross": 600
                 }
             },
             "total": {
                 "shows": 39,
-                "sold": 419,
+                "sold": 417,
                 "seats": 4641,
-                "gross": 33350
+                "gross": 33195
             },
             "image": "https://media.grabticks.com/programSj_693c0b42-f81d-467d-9334-8f0777e3af3b_.jpg"
         },
@@ -83880,10 +83880,10 @@
                     "date": "2026-04-02",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 1",
-                    "sold": 15,
+                    "sold": 13,
                     "seats": 121,
                     "price": 170,
-                    "gross": 2550
+                    "gross": 2210
                 },
                 "4DX The Super Mario Galaxy Movie(English Version) _2026-04-03_GALA CINEMA (Langham Place)_House 1": {
                     "id": "4DX The Super Mario Galaxy Movie(English Version) _2026-04-03_GALA CINEMA (Langham Place)_House 1",
@@ -83972,9 +83972,9 @@
                 },
                 "2026-04-02": {
                     "shows": 2,
-                    "sold": 19,
+                    "sold": 17,
                     "seats": 173,
-                    "gross": 3230
+                    "gross": 2890
                 },
                 "2026-04-03": {
                     "shows": 2,
@@ -84009,9 +84009,9 @@
             },
             "total": {
                 "shows": 12,
-                "sold": 99,
+                "sold": 97,
                 "seats": 969,
-                "gross": 16830
+                "gross": 16490
             }
         },
         "4DX The Super Mario Galaxy Movie(Cantonese Version) ": {
@@ -84055,10 +84055,10 @@
                     "date": "2026-04-02",
                     "site": "GALA CINEMA (Langham Place)",
                     "house": "House 1",
-                    "sold": 5,
+                    "sold": 3,
                     "seats": 121,
                     "price": 170,
-                    "gross": 850
+                    "gross": 510
                 },
                 "4DX The Super Mario Galaxy Movie(Cantonese Version) _2026-04-03_B+ cinema apm (Kwun Tong)_House 6": {
                     "id": "4DX The Super Mario Galaxy Movie(Cantonese Version) _2026-04-03_B+ cinema apm (Kwun Tong)_House 6",
@@ -84158,9 +84158,9 @@
                 },
                 "2026-04-02": {
                     "shows": 2,
-                    "sold": 27,
+                    "sold": 25,
                     "seats": 173,
-                    "gross": 4590
+                    "gross": 4250
                 },
                 "2026-04-03": {
                     "shows": 2,
@@ -84195,9 +84195,9 @@
             },
             "total": {
                 "shows": 12,
-                "sold": 104,
+                "sold": 102,
                 "seats": 969,
-                "gross": 17680
+                "gross": 17340
             }
         },
         "CINITY LED The Super Mario Galaxy Movie(Cantonese Version) ": {
@@ -87567,10 +87567,10 @@
                     "date": "2026-04-19",
                     "site": "MOViE MOViE Cityplaza (Taikoo Shing)",
                     "house": "House 2",
-                    "sold": 1,
+                    "sold": 0,
                     "seats": 119,
                     "price": 100,
-                    "gross": 100
+                    "gross": 0
                 },
                 "ELVIS_2026-04-19_MOViE MOViE Pacific Place (Admiralty)_House 4": {
                     "id": "ELVIS_2026-04-19_MOViE MOViE Pacific Place (Admiralty)_House 4",
@@ -87605,16 +87605,16 @@
                 },
                 "2026-04-19": {
                     "shows": 2,
-                    "sold": 2,
+                    "sold": 1,
                     "seats": 200,
-                    "gross": 230
+                    "gross": 130
                 }
             },
             "total": {
                 "shows": 5,
-                "sold": 3,
+                "sold": 2,
                 "seats": 520,
-                "gross": 360
+                "gross": 260
             }
         }
     }
